@@ -1,0 +1,106 @@
+footer {
+  background-color: #011f32;
+}
+.bg-dark-cyan {
+  background-color: #1f5660;
+}
+
+.bg-magenta-pink {
+  background-color: #ea0a8e;
+}
+
+.bg-british-antarctic-territory {
+  background-color: #bb1e1e;
+}
+
+.bg-medium-light-cyan {
+  background-color: #9ed0c9;
+}
+
+.bg-light-grey {
+  background-color: #f4f4f4 !important;
+}
+
+.bg-light-cyan {
+  background-color: rgb(188, 213, 214, 0.7);
+}
+
+.bg-medium-light-cyan-3 {
+  background-color: hsl(204, 29%, 61%, 25%);
+}
+
+.contact-main-light-cyan {
+  background-color: #eff4f4;
+}
+
+.bg-medium-light-cyan-2 {
+  background-color: #d5efeb;
+}
+
+/* Text Colors */
+.bg-thin-cyan {
+  background-color: #24475e;
+}
+bg-T_Mobile-v5 .text-thin-cyan {
+  color: #24475e;
+}
+
+.bg-light-shade-cyan {
+  background-color: #edf7f8;
+}
+
+.bg-dark-cyan-gradient {
+  background: rgb(31, 86, 96);
+  background: linear-gradient(
+    90deg,
+    rgba(31, 86, 96, 1) 23%,
+    rgba(56, 111, 121, 1) 100%
+  );
+}
+
+.gradient-green-blue {
+  background: rgb(19, 78, 94);
+  background: linear-gradient(90deg, #24475e 18%, #287777 100%);
+}
+
+/* borders */
+.border-dark-cyan {
+  border-color: #1f5660 !important;
+}
+
+a.circledin-blue {
+  color: #7fa1b8;
+}
+
+.card.bg-verizon-v5 {
+  background-color: #ab0d0d;
+  color: white;
+  border-radius: 2rem;
+
+  box-shadow: 0px 11px #d69494;
+}
+
+.card.bg-T_Mobile-v5 {
+  background-color: #e20074;
+  color: white;
+  border-radius: 2rem;
+  box-shadow: 0px 11px #efbfd8;
+}
+
+.card.bg-att-v5 {
+  background-color: #00a8e0;
+  color: white;
+  border-radius: 2rem;
+  box-shadow: 0px 11px #91c9ef;
+}
+
+.card.bg-cricket-v5 {
+  background-color: #086b37;
+  color: white;
+  border-radius: 2rem;
+  box-shadow: 0px 11px #cfe8bc;
+}
+
+.bg-alabaster {
+  background-color: #f8f8f8;
+}

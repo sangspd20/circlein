@@ -1,0 +1,2445 @@
+@font-face {
+  font-family: 'Mont Regular';
+  src: url('../fonts/6cce6b8c74a8ac84c45963dbac1e025a.eot'); /* IE9*/
+  src: url('../fonts/6cce6b8c74a8ac84c45963dbac1e025a.eot#iefix')
+      format('embedded-opentype'),
+    /* IE6-IE8 */ url('../fonts/6cce6b8c74a8ac84c45963dbac1e025a.woff2')
+      format('woff2'),
+    /* chrome、firefox */ url('../fonts/6cce6b8c74a8ac84c45963dbac1e025a.woff')
+      format('woff'),
+    /* chrome、firefox */ url('../fonts/6cce6b8c74a8ac84c45963dbac1e025a.ttf')
+      format('truetype'),
+    /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url('../fonts/6cce6b8c74a8ac84c45963dbac1e025a.svg#Mont%20Regular')
+      format('svg'); /* iOS 4.1- */
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mont-Bold';
+  src: url('../fonts/Mont-Bold.ttf');
+  font-weight: bolder;
+  font-display: swap;
+}
+
+h2.font-size-xl {
+  font-size: 1.8rem;
+}
+
+*,
+body {
+  font-family: 'Mont Regular' !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 b,
+h2 b,
+h3 b,
+h4 b,
+h5 b,
+h6 b,
+strong.Mont-Bold,
+.Mont-Bold {
+  font-family: 'Mont-Bold' !important;
+}
+
+.bg-home-7 {
+  background-image: url('../images/home_7.png');
+  background-repeat: no-repeat;
+  background-position: -30px -40px;
+  background-size: 330px 270px;
+}
+
+.bg-left-circle {
+  background-image: url('../images/left_circle.png');
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 350px;
+}
+
+.img-abt_us_right {
+  background: url('../images/abt_us_right.png') no-repeat 260% 50%;
+}
+
+.top-sec-radius {
+  border-radius: 0 75px 75px 0px;
+}
+
+.w-84 {
+  width: 84%;
+}
+
+p.h6.font-size-xm {
+  font-size: 0.7rem;
+}
+
+p.h5.font-size-xm {
+  font-size: 0.8rem;
+}
+
+img.img-fluid-howitworks1 {
+  max-width: 50%;
+}
+
+img.img-fluid-howitworks2,
+img.img-fluid-howitworks3 {
+  max-width: 50%;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+.border-width-three {
+  border-width: 3px !important;
+}
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+.border-width-six {
+  border-width: 6px !important;
+}
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+.dot {
+  height: 15px !important;
+  width: 15px !important;
+}
+.border-radius-half {
+  border-radius: 50% !important;
+}
+.border-color-reddish-gradient {
+  border-color: #302d2d !important;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+.border-width-three {
+  border-width: 3px !important;
+}
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+.dot {
+  height: 15px !important;
+  width: 15px !important;
+}
+.border-radius-none {
+  border-radius: 0px !important;
+}
+.bluish-box-shadow {
+  -moz-box-shadow: 8px 7px 6px 2px #276b6f;
+  -webkit-box-shadow: 8px 7px 6px 2px #276b6f;
+  box-shadow: 8px 7px 6px 2px #276b6f;
+}
+
+.bg-verizon-circular {
+  background-image: url('../images/verizon_circle_wsmall.png');
+  background-size: 28.25rem;
+  background-position: -55px -40px;
+  background-repeat: no-repeat;
+}
+.bg-T-Mobile-circular {
+  background-image: url('../images/tmobile_circlewsmall.png');
+  background-size: 28rem;
+  background-position: -57px -45px;
+  background-repeat: no-repeat;
+}
+
+.bg-covered-box-img {
+  background-image: url('../images/coveredgrad.png');
+  background-repeat: no-repeat;
+
+  background-position: -80px -25px;
+  background-size: 200px;
+}
+
+.bg-covered-box-img-desktop {
+  background-image: url('../images/coveredgrad.png');
+  background-repeat: no-repeat;
+
+  background-position: -80px 130px;
+  background-size: 280px;
+}
+
+/* BG 2 */
+.bg-verizon-circular-5 {
+  background-image: url('../images/home_verizon.png');
+  background-position: -2px -20px;
+  background-size: 80%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+/* BG 2 */
+.bg-verizon-circular-6 {
+  background-image: url('../images/1_4.png');
+  background-position: 0px;
+  background-size: 110%;
+  /* background-size:  cover; */
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-verizon-circular-5 {
+  background-image: url('../images/home_verizon.png');
+  background-position: -11px -5px;
+  background-size: 80%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-verizon-circular-6 {
+  background-image: url('../images/1_4.png');
+  background-position: 0px;
+  background-size: 110%;
+  /* background-size:  cover; */
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-T-Mobile-circular-6 {
+  background-image: url('../images/Home_t_mobile.png');
+  background-size: 29rem;
+  background-position: -57px -50px;
+  background-repeat: no-repeat;
+  background-position: -10px -12px;
+  background-size: 85%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-T-Mobile-circular-7 {
+  background-image: url('../images/home_t_header.png');
+  background-position: 0px;
+  background-size: 100%;
+  /* background-size:  cover; */
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-T-circular-7 {
+  background-image: url('../images/att_brush.png');
+  background-position: 0px;
+  background-size: 100%;
+  /* background-size:  cover; */
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+      90deg,
+      rgba(131, 58, 180, 1) 0%,
+      rgba(210, 210, 210, 1) 0%,
+      rgba(43, 164, 24, 1) 100%
+    );
+  }
+  span.h6.font-size-xm,
+  p.h6.font-size-xm {
+    font-size: 0.65rem;
+  }
+
+  img.post-account-img,
+  img.join-plan-img {
+    max-width: 70%;
+  }
+
+  h2.about,
+  h2.Support,
+  h2.Legal {
+    font-size: 18px;
+  }
+
+  a.about.font-size-xm,
+  a.How-it-Works.font-size-xm,
+  a.Contact-Us.font-size-xm,
+  a.FAQ.font-size-xm,
+  a.Terms-of-Service.font-size-xm,
+  a.Privacy-Policy.font-size-xm {
+    font-size: 12px;
+  }
+
+  /* img.contact-img {
+      max-width:50%;
+      position: relative;
+      top:-10px;
+      
+  } */
+
+  p.card-text.font-size-xm.contact {
+    font-size: 6px;
+  }
+}
+
+@media (max-width: 576px) {
+  a.font-size-xm {
+    font-size: 20px;
+  }
+
+  span.h6.font-size-xm,
+  p.h6.font-size-xm {
+    font-size: 0.65rem;
+  }
+  h1.card-title.font-size-xm {
+    font-size: 28px;
+  }
+
+  section.about-us h1.card-title.font-size-xm {
+    font-size: 1.2rem;
+  }
+  h1.card-title.font-size-xm.faq {
+    font-size: 22px;
+  }
+
+  h1.card-title.font-size-xm.circle-heading {
+    font-size: 22px;
+  }
+  h2.card-title.font-size-xm {
+    font-size: 22px;
+  }
+  h3.card-title.font-size-xm.circle-heading {
+    font-size: 16px;
+  }
+  h1.card-title.font-size-xm.card-section-heading {
+    font-size: 25px;
+    padding-top: 7px;
+  }
+  .people-img-faq {
+    max-width: 100px !important;
+    min-width: 100px !important;
+  }
+
+  img.img-fluid-howitworks1 {
+    max-width: 150%;
+  }
+
+  img.img-fluid-howitworks2,
+  img.img-fluid-howitworks3 {
+    max-width: 150%;
+  }
+
+  .bg-howitworks4 {
+    background-image: url('../images/howitworks4.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: -35% -5%;
+  }
+}
+
+@media (max-width: 414px) {
+  h1.card-title.font-size-xm.card-section-heading {
+    font-size: 24px;
+    padding-top: 7px;
+  }
+
+  /* img.contact-img {
+      max-width:50%;
+      position: relative;
+      top:-10px;
+      
+  } */
+}
+
+@media (min-width: 992px) {
+  img.post-account-img,
+  img.join-plan-img {
+    max-width: 40%;
+  }
+  /* img.contact-img {
+      max-width:50%;
+      position: relative;
+      top:-20px;
+      left: -150px;
+  } */
+}
+
+.carousel-cell {
+  min-width: 25rem;
+}
+.carousel-cell > .card {
+  width: 25rem;
+}
+.carousel-cell > .card > div.card-body.bg-verizon-circular {
+  min-height: 320px;
+}
+
+.carousel-cell > .card > div.card-body.bg-T-Mobile-circular {
+  min-height: 330px;
+}
+
+.bg-reddish {
+  background-color: #ab0d0d;
+}
+
+.btn.bg-reddish:hover {
+  background-color: rgb(171, 13, 13, 0.8);
+}
+
+.bg-lightest-grey {
+  background-color: #d1d1d1;
+}
+
+.border-color-lightest-grey {
+  border-color: #d1d1d1 !important;
+}
+
+.border-top-width-six {
+  border-top-width: 6px;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-55 {
+  width: 55%;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.img-centered {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+  left: -55px;
+  top: -15px;
+  display: block;
+}
+
+div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+  left: -32px;
+  top: 10px;
+  display: block;
+}
+
+div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+  left: -55px;
+  top: -15px;
+  display: block;
+}
+
+div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+  left: -32px;
+  top: 10px;
+  display: block;
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1253px) and (orientation: portrait) {
+  img.contact-img {
+    max-width: 60%;
+    /* max-height: 10% !important; */
+    /* /* position: relative; */
+    top: -20px;
+    /* margin-bottom: 50px; */
+    left: -400px;
+  }
+
+  .bg-verizon-circular {
+    background-image: url('../images/verizon_circle_wsmall.png');
+    background-size: 33rem;
+    background-position: -60px -50px;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular {
+    background-image: url('../images/tmobile_circlewsmall.png');
+    background-size: 33rem;
+    background-position: -68px -60px;
+    background-repeat: no-repeat;
+  }
+
+  .carousel-cell {
+    min-width: 30rem;
+  }
+  .carousel-cell > .card {
+    width: 30rem;
+  }
+  .carousel-cell > .card > div.card-body.bg-verizon-circular {
+    min-height: 320px;
+  }
+
+  div#portfolio-main-carousel-verizon div.carousel-cell a {
+    margin-top: 17px;
+    margin-left: 5px;
+  }
+
+  div#portfolio-main-carousel-T-Mobile div.carousel-cell a {
+    margin-top: 19px;
+    margin-left: 8px;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+    left: -80px;
+    top: -15px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+    left: -55px;
+    top: 10px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+    left: -75px;
+    top: -15px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+    left: -55px;
+    top: 10px;
+    display: block;
+  }
+}
+
+.bg-verizon {
+  background-color: #cd040b;
+}
+
+.text-verizon {
+  color: #ab0d0d;
+}
+
+.border-verizon {
+  border: 2px solid #ab0d0d;
+}
+
+.bg-T-Mobile {
+  background-color: #ea0a8e;
+}
+.border-T-Mobile {
+  border: 2px solid #ea0a8e;
+}
+
+.border-T {
+  border: 2px solid #00a8e0;
+}
+
+.border-Cricket {
+  border: 2px solid #086b37;
+}
+.text-T-Mobile {
+  color: #ea0a8e;
+}
+
+.text-T {
+  color: #00a8e0;
+}
+.text-Cricket {
+  color: #086b37;
+}
+
+.bg-dark-blue-covered-box {
+  background-color: #24475e;
+}
+
+.bg-image-testimonial {
+  background-image: url('../images/customer_testimonial.png');
+  background-size: 400px 300px;
+  background-repeat: no-repeat;
+}
+.bg-grid-plan-verizon {
+  background-image: url('../images/verizon.png');
+}
+
+.bg-grid-plan-T-Mobile {
+  background-image: url('../images/T_Mobile.png');
+}
+
+.bg-gird-plan-AT-T {
+  background-image: url('../images/AT_T.png');
+}
+
+.row.is-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.row.is-flex > [class*='col-'] > div > a,
+.row.is-flex > [class*='col-'] > div > p {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 10px;
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.row.is-flex > [class*='col-'] > div > p {
+  min-height: 114px;
+  justify-content: normal;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.row.is-flex > [class*='col-'] > div > div.row.h-100 > div.col > p {
+  min-height: 114px;
+  justify-content: normal;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-bottom: auto;
+}
+
+/* .row.is-flex > [class*='col-']:last-child  {
+  
+  margin-top: 27px;
+}  */
+.row.is-flex > [class*='col-']:last-child > div > div {
+  top: -7px;
+}
+
+/* .row.is-flex > [class*='col-'] > div > div{
+    padding-left: 135px;
+} */
+
+/* ***************************************************************** */
+/* BACKGROUND COLORS SCHEME */
+/* ***************************************************************** */
+
+@media only screen and (min-device-width: 370px) and (max-device-width: 815px) {
+  img.contact-img {
+    max-width: 60%;
+    /* max-height: 10% !important; */
+    /* position: relative;
+    top:-20px; */
+    /* margin-bottom: 50px; */
+    /* left: -150px; */
+  }
+
+  img.img-fluid.contact_us {
+    max-width: 50% !important;
+  }
+
+  p.card-text.font-size-xm.contact {
+    font-size: 7px;
+  }
+}
+
+.bg-img-tmobile_arrow {
+  background-image: url('../images/tmobile_arrow.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 20px 14px;
+}
+
+.bg-img-verizon_arrow {
+  background-image: url('../images/verizon_arrow.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 20px 8px;
+}
+
+.bg-tmobile_arrow_double {
+  background-image: url('../images/oie_jFE3tPk2TvIy.png');
+  background-size: 60px;
+  background-repeat: no-repeat;
+  background-position: 25px 9px;
+}
+.bg-plan-detail-T-Mobile-circle {
+  background-image: url('../images/tmobile_plan_detail.png');
+  background-size: 337px;
+  background-repeat: no-repeat;
+  background-position: 0px -5px;
+}
+.bg-section-top-img-T-Mobile {
+  background-image: url('../images/tmobile_circles.png');
+  background-size: 220px;
+  background-repeat: no-repeat;
+  background-position: 0px 100px;
+}
+
+.bg-verizon_arrow_double {
+  background-image: url('../images/oie_chpP4IfNbHYM.png');
+  background-size: 60px;
+  background-repeat: no-repeat;
+  background-position: 25px 9px;
+}
+.bg-plan-detail-verizon-circle {
+  background-image: url('../images/verizon_plan_detail.png');
+  background-size: 337px;
+  background-repeat: no-repeat;
+  background-position: 0px -5px;
+}
+.bg-section-top-img-verizon {
+  background-image: url('../images/verizon_circles.png');
+  background-size: 220px;
+  background-repeat: no-repeat;
+  background-position: 0px 100px;
+}
+
+.bg-ford-grey {
+  background-color: #d1d1d1;
+}
+
+div.card.bg-plan-detail-verizon-circle,
+div.card.bg-plan-detail-T-Mobile-circle {
+  font-size: 12px;
+}
+
+div.card.bg-plan-detail-verizon-circle h5,
+div.card.bg-plan-detail-T-Mobile-circle h5 {
+  font-size: 14px;
+}
+
+div.card.bg-plan-detail-verizon-circle label,
+div.card.bg-plan-detail-verizon-circle span,
+div.card.bg-plan-detail-T-Mobile-circle label,
+div.card.bg-plan-detail-T-Mobile-circle span {
+  font-size: 12px;
+}
+
+div.card .dropdown.bootstrap-select .btn-light:not([data-id='example5-state']) {
+  color: black;
+  font-weight: bolder;
+  background-color: #d3d2d2;
+  border-color: #d3d2d2;
+  box-shadow: none;
+  padding: 2px 10px;
+}
+
+div#bs-select-1.inner.show {
+  overflow: hidden !important;
+}
+
+div.card.bg-image-testimonial {
+  width: 22rem !important;
+}
+
+.customer-testimonals-gradient {
+  background-image: linear-gradient(
+    to right top,
+    #265566,
+    #265767,
+    #265968,
+    #265a68,
+    #265c69
+  );
+}
+
+p.card-text.how {
+  font-size: 15px;
+}
+
+section.bg-img-faq p.card-text {
+  line-height: 1.4;
+}
+
+p.footer-text {
+  font-size: 16px;
+}
+
+.button-google {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 24px;
+  border: 1px solid #b3b3b3;
+  border-radius: 0px;
+  background: #ffffff;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#ffffff),
+    to(#ffffff)
+  );
+  background: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-box-shadow: #ffffff 0px 0px 40px 0px;
+  -moz-box-shadow: #ffffff 0px 0px 40px 0px;
+  box-shadow: #ffffff 0px 0px 40px 0px;
+  text-shadow: #ffffff 1px 1px 1px;
+  font-size: 1rem;
+  color: #111111;
+  text-decoration: none;
+  border-radius: 0.375rem;
+}
+.button-google:hover,
+.button-google:focus {
+  border: 1px solid #111111;
+  color: #111111;
+  text-decoration: none;
+  /* background: #b3b3b3;
+  background: -webkit-gradient(linear, left top, left bottom, from(#b3b3b3), to(#ffffff));
+  background: -moz-linear-gradient(top, #b3b3b3, #ffffff);
+  background: linear-gradient(to bottom, #b3b3b3, #ffffff); */
+}
+/* .button-google:active { */
+/* background: #b3b3b3;
+  background: -webkit-gradient(linear, left top, left bottom, from(#b3b3b3), to(#ffffff));
+  background: -moz-linear-gradient(top, #b3b3b3, #ffffff);
+  background: linear-gradient(to bottom, #b3b3b3, #ffffff); */
+/* } */
+.button-google:before {
+  content: '\0000a0';
+  display: inline-block;
+  height: 24px;
+  width: 40px;
+  line-height: 24px;
+  margin: 0 4px -6px -4px;
+  position: relative;
+  top: 0px;
+  left: -13%;
+  background: url('../images/google.png') no-repeat left center transparent;
+  background-size: auto 149%;
+}
+
+/* Facebook */
+.button-facebook {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 24px;
+  border: 1px solid #b3b3b3;
+  border-radius: 0px;
+  background: #ffffff;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#ffffff),
+    to(#ffffff)
+  );
+  background: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-box-shadow: #ffffff 0px 0px 40px 0px;
+  -moz-box-shadow: #ffffff 0px 0px 40px 0px;
+  box-shadow: #ffffff 0px 0px 40px 0px;
+  text-shadow: #ffffff 1px 1px 1px;
+  font-size: 1rem;
+  color: #111111;
+  text-decoration: none;
+  border-radius: 0.375rem;
+}
+.button-facebook:hover,
+.button-facebook:focus {
+  border: 1px solid #111111;
+  color: #111111;
+  text-decoration: none;
+  /* background: #b3b3b3;
+  background: -webkit-gradient(linear, left top, left bottom, from(#b3b3b3), to(#ffffff));
+  background: -moz-linear-gradient(top, #b3b3b3, #ffffff);
+  background: linear-gradient(to bottom, #b3b3b3, #ffffff); */
+}
+/* .button-facebook:active { */
+/* background: #b3b3b3;
+  background: -webkit-gradient(linear, left top, left bottom, from(#b3b3b3), to(#ffffff));
+  background: -moz-linear-gradient(top, #b3b3b3, #ffffff);
+  background: linear-gradient(to bottom, #b3b3b3, #ffffff); */
+/* } */
+.button-facebook:before {
+  content: '\0000a0';
+  display: inline-block;
+  height: 24px;
+  /* width: 24px; */
+  /* width: 40px; */
+  width: 32px;
+  line-height: 24px;
+  margin: 0 4px -6px -4px;
+  position: relative;
+  top: 0px;
+  left: -10.2%;
+  background: url('../images/facebook.png') no-repeat left center transparent;
+  /* background-size: 100% 100%; */
+  /* background-size: auto 149%; */
+  background-size: auto 110%;
+}
+
+.border-radius-five {
+  border-radius: 5px;
+}
+
+.w-110-img {
+  width: 110%;
+}
+
+a#cancelEditFirstName,
+a#editFirstName,
+a#doneEditFirstName,
+a#cancelEditLastName,
+a#doneEditLastName,
+a#editLastName,
+a#cancelEditContactNumber,
+a#doneEditContactNumber,
+a#editContactNumber {
+  display: block;
+  color: white;
+}
+
+a#cancelEditFirstName,
+a#doneEditFirstName,
+a#cancelEditLastName,
+a#doneEditLastName,
+a#cancelEditContactNumber,
+a#doneEditContactNumber {
+  display: none;
+  margin-left: 0px;
+}
+
+div#originalAddress p {
+  line-height: 2;
+}
+
+.fa-1_1x {
+  font-size: 1.1em;
+}
+
+/* ***********About Us Page *******************************/
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+.border-width-six {
+  border-width: 6px !important;
+}
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+.dot {
+  height: 15px !important;
+  width: 15px !important;
+}
+.border-radius-half {
+  border-radius: 50% !important;
+}
+.border-color-reddish-gradient {
+  border-color: #302d2d !important;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+
+.line-hieght-1_4 {
+  line-height: 1.4 !important;
+}
+
+.borer-color-alice-blue {
+  border-color: aliceblue !important;
+}
+.bg-109 {
+  /* background-position: -10px -17px !important; */
+  background-size: auto;
+}
+.dot {
+  height: 15px !important;
+  width: 50px !important;
+}
+
+.dot:first-child {
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+
+.dot:last-child {
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}
+
+.border-radius-none {
+  border-radius: 0px !important;
+}
+.bluish-box-shadow {
+  -moz-box-shadow: 8px 7px 6px 2px #5288ab;
+  -webkit-box-shadow: 8px 7px 6px 2px #5288ab;
+  box-shadow: 8px 7px 6px 2px #5288ab;
+}
+
+.bg-verizon-circular {
+  background-image: url('../images/verizon_circle_wsmall.png');
+  background-size: 28.25rem;
+  background-position: -55px -40px;
+  background-repeat: no-repeat;
+}
+.bg-T-Mobile-circular {
+  background-image: url('../images/tmobile_circlewsmall.png');
+  background-size: 28rem;
+  background-position: -57px -45px;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+  span.h6.font-size-xm,
+  p.h6.font-size-xm {
+    font-size: 0.65rem;
+  }
+
+  img.post-account-img,
+  img.join-plan-img {
+    max-width: 70%;
+  }
+
+  .bg-grid-plan-verizon {
+    background-image: url('../images/verizon.png');
+    background-size: 110% 136%;
+    background-position: -7px -15px;
+  }
+
+  .bg-grid-plan-T-Mobile {
+    background-image: url('../images/T_Mobile.png');
+    background-size: 110% 136%;
+    background-position: -9px -18px;
+  }
+
+  .bg-gird-plan-AT-T {
+    background-image: url('../images/AT_T.png');
+    background-size: 110% 136%;
+    background-position: -8px -14px;
+  }
+}
+
+@media (max-width: 576px) {
+  a.font-size-xm {
+    font-size: 20px;
+  }
+  p.font-size-xm {
+    font-size: 12px;
+  }
+  span.h6.font-size-xm,
+  p.h6.font-size-xm {
+    font-size: 0.65rem;
+  }
+
+  .verizon-p,
+  p.verizon-heading-h5 {
+    font-size: 0.7rem;
+  }
+  .category-title::after {
+    width: 77%;
+  }
+
+  section.bg-image-about-us-page-banner h1:first {
+    font-size: 1rem;
+  }
+
+  h1.card-title.font-size-xm.circle-heading {
+    font-size: 22px;
+  }
+  h2.card-title.font-size-xm {
+    font-size: 22px;
+  }
+
+  /* h2.card-title.font-size-xm.font-size-16-pixels{
+    font-size: 16px;
+  } */
+  h3.card-title.font-size-xm.circle-heading {
+    font-size: 16px;
+  }
+  h1.card-title.font-size-xm.card-section-heading {
+    font-size: 25px;
+    padding-top: 7px;
+  }
+
+  .people-img-about {
+    max-width: 120px !important;
+    min-width: 100px !important;
+    /* margin-top: 100px; */
+    /* margin-top: 100px; */
+  }
+}
+
+@media (max-width: 414px) {
+  h1.card-title.font-size-xm.card-section-heading {
+    font-size: 24px;
+    padding-top: 7px;
+  }
+}
+
+@media (min-width: 992px) {
+  img.post-account-img,
+  img.join-plan-img {
+    max-width: 40%;
+  }
+}
+
+@media screen and (min-device-width: 393px) and (max-device-width: 786px) {
+  .people-img-about {
+    max-width: 200px !important;
+    min-width: 200px !important;
+    /* margin-left: 5
+  00px; */
+    /* margin: 0 auto; */
+    /* margin-left: 144px !important; */
+    /* margin-top: -10px !important; */
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -30px !important;
+  }
+
+  .img-abt_us_right {
+    background-position: 150% center;
+    background-size: 55%;
+  }
+}
+
+@media screen and (min-device-width: 1024px) and (max-device-width: 1253px) {
+  .people-img-about {
+    max-width: 300px !important;
+    min-width: 100px !important;
+    /* margin-left: 5
+  00px; */
+    /* margin: 0 auto; */
+    margin-left: 155px !important;
+    margin-top: -60px !important;
+  }
+}
+
+.carousel-cell {
+  min-width: 25rem;
+  min-height: 100%;
+}
+.carousel-cell > .card {
+  width: 17.5rem;
+}
+.carousel-cell > .card > div.card-body.bg-verizon-circular {
+  min-height: 320px;
+}
+
+.carousel-cell > .card > div.card-body.bg-T-Mobile-circular {
+  min-height: 330px;
+}
+
+.bg-reddish {
+  background-color: #ab0d0d;
+}
+
+.bg-lightest-grey {
+  background-color: #d1d1d1;
+}
+
+.border-color-lightest-grey {
+  border-color: #d1d1d1;
+}
+
+.border-top-width-six {
+  border-top-width: 6px;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-55 {
+  width: 55%;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.img-centered {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.bg-howitworks4 {
+  background-image: url('../images/howitworks4.png');
+  background-size: 31%;
+  background-repeat: no-repeat;
+  background-position: -11% 5%;
+}
+
+div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+  left: -60px;
+  top: -4px;
+  display: block;
+}
+
+div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+  left: -40px;
+  top: 10px;
+  display: block;
+}
+
+div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+  left: -60px;
+  top: 0px;
+  display: block;
+}
+
+div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+  left: -41px;
+  top: 15px;
+  display: block;
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1253px) and (orientation: portrait) {
+  .bg-verizon-circular {
+    background-image: url('../images/verizon_circle_wsmall.png');
+    background-size: 33rem;
+    background-position: -60px -50px;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular {
+    background-image: url('../images/tmobile_circlewsmall.png');
+    background-size: 33rem;
+    background-position: -68px -60px;
+    background-repeat: no-repeat;
+  }
+
+  .carousel-cell {
+    min-width: 30rem;
+  }
+  .carousel-cell > .card {
+    width: 30rem;
+  }
+  .carousel-cell > .card > div.card-body.bg-verizon-circular {
+    min-height: 320px;
+  }
+
+  div#portfolio-main-carousel-verizon div.carousel-cell a {
+    margin-top: 17px;
+    margin-left: 5px;
+  }
+
+  div#portfolio-main-carousel-T-Mobile div.carousel-cell a {
+    margin-top: 19px;
+    margin-left: 8px;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+    left: -80px;
+    top: -15px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+    left: -55px;
+    top: 10px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+    left: -75px;
+    top: -15px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+    left: -55px;
+    top: 10px;
+    display: block;
+  }
+}
+
+a.bg-verizon:link,
+a.bg-verizon:visited {
+  background-color: #ab0d0d !important;
+}
+
+a.bg-verizon:hover,
+a.bg-verizon:hover,
+a.bg-verizon:active {
+  background-color: #a44e4e !important;
+}
+
+.bg-T-Mobile,
+a.bg-T-Mobile:visited {
+  background-color: #e20074 !important;
+  color: white !important;
+}
+
+.btn.bg-T-Mobile:hover {
+  background-color: rgb(226, 0, 116, 0.7) !important;
+}
+
+a.bg-T-Mobile:hover,
+a.bg-T-Mobile:hover,
+a.bg-T-Mobile:active {
+  background-color: #d19ac4 !important;
+}
+
+.bg-T,
+a.bg-T:visited {
+  background-color: #00a8e0 !important;
+  color: white !important;
+}
+
+.btn.bg-T:hover {
+  background-color: rgb(0, 168, 224, 0.7) !important;
+}
+.bg-Cricket,
+a.bg-T:visited {
+  background-color: #086b37 !important;
+  color: white !important;
+}
+
+.bg-google {
+  background-color: #4285f4 !important;
+  color: white !important;
+}
+.btn.bg-Cricket:hover {
+  background-color: #086b36b7 !important;
+}
+
+.list-group-item-action.list-bg-T:hover {
+  background-color: #dcecf6;
+}
+
+.list-bg-T-Mobile.list-group-item-action:hover {
+  background-color: #ed9dc6;
+}
+
+.list-group-item-action.list-bg-T:hover {
+  background-color: #8ccee4;
+}
+
+.list-bg-T-Mobile.list-group-item-action:hover {
+  background-color: #ed9dc6;
+}
+
+.list-group-item-action.list-bg-verizon:hover {
+  background-color: #f6d8d8;
+}
+
+a.bg-T:hover,
+a.bg-T:hover,
+a.bg-T:active {
+  background-color: #51b5d6 !important;
+}
+
+.bg-image-testimonial {
+  background-image: url('../images/customer_testimonial.png');
+  background-size: 400px 270px;
+  background-repeat: no-repeat;
+}
+
+.row.is-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.row.is-flex > [class*='col-'] > div > a,
+.row.is-flex > [class*='col-'] > div > p {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 10px;
+  min-height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.row.is-flex > [class*='col-'] > div > p {
+  min-height: 114px;
+  justify-content: normal;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+/* .row.is-flex > [class*='col-']:last-child  {
+
+margin-top: 27px;
+}  */
+.row.is-flex > [class*='col-']:last-child > div > div {
+  top: -7px;
+}
+
+.bg-abt_us_left {
+  background-image: url('../images/abt_us_left.png');
+  background-repeat: no-repeat;
+  background-size: 45%;
+  background-position: -55px -17px;
+}
+
+.img-abt_us_pig {
+  width: 70%;
+  position: relative;
+  left: 20%;
+}
+
+/* **************************************************** */
+
+/* ************* CONTACT US ************************** */
+
+.img-contact_us_circles {
+  background: url('../images/contact_us_circles.png') no-repeat -40% 70%;
+  background-size: 50%;
+}
+
+/* ***************************************************** */
+
+.img-fluid-126 {
+  max-width: 126%;
+}
+
+div#portfolio-main-carousel-all > div.flickity-viewport {
+  height: 390px !important;
+}
+
+.bg-cloud {
+  background-image: url('../images/cloud.png');
+  background-repeat: no-repeat;
+  background-size: 90% 135%;
+  background-position: 60% 50%;
+}
+
+div.bg-cloud > p.card-text {
+  font-size: 0.65rem;
+}
+
+hr.border-width-two,
+h2.border-width-two {
+  border-width: 2px !important;
+  border-top-width: 2px !important;
+  border-bottom-width: 2px !important ;
+}
+
+.border-width-two {
+  border-width: 2px !important;
+}
+
+.z-index-0 {
+  z-index: 0 !important;
+}
+
+.flickity-page-dots {
+  bottom: 0;
+}
+
+.w-20 {
+  width: 20% !important;
+}
+
+/* New BG Imageas for home circles */
+
+.bg-verizon-circular-3 {
+  /* background-image: url('images/Verizon_Plan_Card/verizon_circle.png'); */
+  background-image: url('../images/full_circle_verizon.png');
+
+  background-position: -60px -30px;
+  background-size: 80%;
+  background-size: 105%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-verizon-circular-2 {
+  background-image: url('../images/Copy%20of%205.png');
+  background-position: -2px -20px;
+  background-size: 80%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-T-Mobile-circular-2 {
+  background-image: url('../images/Copy%20of%209.png');
+  /* background-size: 29rem; */
+  /* background-position: -57px -50px; */
+  /* background-repeat: no-repeat; */
+  background-position: -2px -14px;
+  background-size: 80%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.bg-T-Mobile-circular-3 {
+  /* background-image: url('../images/tmobile_plan_detail.png');
+  background-position: -2px -4px;
+  background-size: 77% 112%; */
+  background-image: url('../images/5_4.png');
+  /* background-position: -2px -4px;
+  background-size: 77% 112%; */
+  background-position: -12px -6px;
+  background-size: 83%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+div.main-carousel#portfolio-main-carousel-T-Mobile .flickity-viewport {
+  height: 380px !important;
+}
+
+.bg-img-edit-profile {
+  background-image: url('../images/circle.png');
+  background-repeat: no-repeat;
+  background-size: 45%;
+  background-position: 120% -10%;
+}
+
+.bg-grid-plan-verizon {
+  background-image: url('../images/verizon.png');
+  background-size: 110% 136%;
+  background-position: -16px -26px;
+}
+
+.bg-grid-plan-T-Mobile {
+  background-image: url('../images/T_Mobile.png');
+  background-size: 110% 136%;
+  background-position: -16px -34px;
+}
+
+.bg-gird-plan-AT-T {
+  background-image: url('../images/AT_T.png');
+  background-size: 110% 136%;
+  background-position: -16px -26px;
+}
+
+@media (max-width: 767.98px) {
+  .bg-grid-plan-verizon {
+    background-image: url('../images/verizon.png');
+    background-size: 110% 136%;
+    background-position: -8px -14px;
+  }
+
+  .bg-grid-plan-T-Mobile {
+    background-image: url('../images/T_Mobile.png');
+    background-size: 110% 136%;
+    background-position: -8px -18px;
+  }
+
+  .bg-gird-plan-AT-T {
+    background-image: url('../images/AT_T.png');
+    background-size: 110% 136%;
+    background-position: -8px -15px;
+  }
+
+  .bg-img-edit-profile {
+    background-image: url('../images/circle.png');
+    background-repeat: no-repeat;
+    background-size: 45%;
+    background-position: 115% -0%;
+  }
+}
+
+.text-transform-capitalize {
+  text-transform: capitalize !important;
+}
+
+/* Home Page Customer Testinomals Images */
+.bg-image-testimonial-2 {
+  background-image: url('../images/reviews.png');
+  background-size: 315px 370px;
+  background-repeat: no-repeat;
+}
+
+div.card.bg-image-testimonial-2 {
+  width: 20rem !important;
+}
+
+.border-radius-xl {
+  border-radius: 3.5rem !important;
+}
+
+.border-radius-sm {
+  border-radius: 1.5rem !important;
+}
+
+.text-no-word-break {
+  word-break: keep-all !important;
+}
+
+/* Font Size Changes */
+.fa-1_7x {
+  font-size: 1.7em;
+}
+
+.gap-columns-lg {
+  gap: 5rem;
+}
+
+.text-medium-dark-cyan {
+  color: #287777;
+}
+
+.bootstrap-select .dropdown-menu.inner > li > a > span.text {
+  font-size: 18px;
+}
+
+.border-color-dark-cyan {
+  border-color: #386f79 !important;
+}
+
+a.nav-link.Mont-Bold.text-transform-capitalize.text-white:hover {
+  color: #d5efeb !important;
+}
+
+.border-width-ten {
+  border-width: 10px !important;
+}
+
+.height-auto {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 700px;
+}
+
+.border-width-2 {
+  border-width: 2px !important;
+}
+
+button#nextBtn.remove-circle::after {
+  content: '>';
+  float: right;
+  font-weight: bolder;
+  padding-left: 20px;
+}
+
+button#prevBtn.remove-circle::before {
+  content: '<';
+  float: left;
+  font-weight: bolder;
+}
+
+.w-md-20 {
+  width: 20% !important;
+}
+
+select.form-control {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23000000%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E') !important;
+  background-repeat: no-repeat, repeat !important;
+  background-position: right 0.7em top 50%, 0 0 !important;
+  background-size: 0.65em auto, 100% !important;
+  border: none;
+  border-radius: 0.375rem;
+  padding: 0em 0em 0em 0.35em;
+}
+
+div.joined-plans h3.card-title {
+  font-size: 1.3rem;
+}
+
+/* Profile Page Joinded Circles  Card Plan Title */
+div.joined-plans h3.plan-title {
+  font-size: 1.2rem;
+}
+
+/* Profile Page Joinded Circles  Card Plan Pric */
+div.joined-plans p.plan-price {
+  font-size: 1.1rem;
+}
+/* Profile Page Joined Circles Family average */
+div.joined-plans p.card-text.font-size-xm {
+  font-size: 1rem;
+}
+
+div.joined-plans .progress {
+  height: 1rem;
+}
+
+button#prevBtn.join,
+button#nextBtn.join,
+button.join.second {
+  display: none;
+}
+
+hr.border-width-10 {
+  margin-top: 4rem !important;
+}
+
+p#originalContactNumber {
+  color: #161c2d !important;
+}
+
+img.phone_header {
+  width: 35%;
+  height: 35%;
+}
+
+.bg-img-customer-testinomals {
+  background-image: url('../images/cust_testimonial.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0%;
+  background-position-x: -10px;
+}
+
+/* iphone 12 pro */
+@media only screen and (min-width: 390px) and (max-width: 844px) and (-webkit-device-pixel-ratio: 3) {
+  p.contact_us_description {
+    font-size: 0.9rem !important;
+  }
+}
+
+.border-color-dark-cyan {
+  border-color: #386f79 !important;
+}
+
+p.register {
+  font-size: 14px;
+}
+
+h1.or,
+p.reCAPTCHA,
+div.register {
+  font-size: 12px;
+}
+
+div.register label {
+  padding-top: 5px;
+}
+
+h1.or,
+h2.questions {
+  position: relative;
+}
+
+h1.or:before,
+h2.questions:before {
+  content: '';
+  display: block;
+  width: 80%;
+  height: 1px;
+  background: #d1d1d1;
+  left: 70%;
+  top: 50%;
+  position: absolute;
+}
+
+h2.questions:before {
+  width: 58%;
+  left: 90%;
+}
+
+h1.or:after,
+h2.questions:after {
+  content: '';
+  display: block;
+  width: 80%;
+  height: 1px;
+  background: #d1d1d1;
+  right: 70%;
+  top: 50%;
+  position: absolute;
+}
+
+h2.questions:after {
+  width: 58%;
+  right: 90%;
+}
+
+.resize-none {
+  resize: none;
+}
+
+div.plan_name:last-child > div.carousel-cell.T-Mobile > div.card > .card-body {
+  min-height: 21rem;
+}
+
+/* Samsung galaxy s21 */
+@media only screen and (min-width: 360px) and (max-width: 800px) and (-webkit-device-pixel-ratio: 3) {
+  p.contact_us_description {
+    font-size: 0.8rem !important;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 667px) and (-webkit-device-pixel-ratio: 2) {
+  p.contact_us_description {
+    font-size: 0.9rem !important;
+  }
+}
+
+label.custom-file-label {
+  width: 146px;
+}
+
+div.T-button {
+  top: 16px;
+  left: -8px;
+  position: relative;
+}
+
+.btn-outline-atoll {
+  border-color: #287777 !important;
+  color: #287777;
+}
+
+.btn-outline-atoll:hover {
+  background-color: #287777 !important;
+  color: white;
+}
+
+.btn-outline-atoll.active {
+  background-color: #287777 !important;
+  color: white;
+}
+
+div#open_case_buttons {
+  grid-row-gap: 15px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  grid-column-gap: 15px;
+  justify-content: flex-start;
+  column-gap: 15px;
+  row-gap: 15px;
+
+  margin: 15px 15px 15px 15px;
+}
+
+div#open_case_buttons label {
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.opacity-0 {
+  opacity: 0;
+}
+
+.category-title:after {
+  background-color: #000;
+  content: '';
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+
+  left: 100%;
+}
+
+.category-title.verizon::after {
+  width: 85%;
+  max-width: 85%;
+}
+
+.category-title.att::after {
+  width: 90%;
+  max-width: 90%;
+}
+
+.category-title.cricket::after {
+  width: 74%;
+  max-width: 74%;
+}
+.category-title.google::after {
+  width: 84%;
+  max-width: 84%;
+}
+
+.category-title.t-mobile::after {
+  width: 84%;
+  max-width: 84%;
+}
+
+.category-title:after {
+  left: 0.5em;
+}
+
+.badge-verizon {
+  color: black;
+  background-color: #ed9da0;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.badge-T-Mobile {
+  color: black;
+  background-color: #ffb8dc;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.badge-T {
+  color: black;
+
+  background-color: #a4daff;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.badge-Cricket {
+  color: black;
+
+  background-color: #bedea6;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.badge-google {
+  color: black;
+
+  background-color: #a9caff;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.bg-hbo {
+  background-color: #543692 !important;
+  background: #543692;
+}
+.badge-hbo {
+  color: black;
+  background-color: #bbace8;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.bg-crunchy {
+  background-color: #df6300 !important;
+  background: #df6300;
+}
+.badge-crunchy {
+  color: black;
+  background-color: #ffd6b6;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.bg-youtube {
+  background-color: #ff0000 !important;
+  background: #ff0000;
+}
+.badge-youtube {
+  color: black;
+  background-color: #efb8ba;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.margin-top-n3_5 {
+  margin-top: -3.5rem !important;
+}
+.border-bottom-right-radius-none {
+  border-bottom-right-radius: 0;
+}
+
+/* 
+a.btn.bg-verizon,a.btn.bg-T-Mobile, a.btn.bg-T {
+  border-radius: 0px !important;
+} */
+
+/* position dots up a bit */
+.flickity-page-dots {
+  bottom: -40px;
+}
+/* dots are lines */
+.flickity-page-dots .dot {
+  height: 4px;
+  width: 100%;
+  margin: 0;
+  border-radius: 0;
+}
+
+.billing-cycle {
+  position: relative;
+  font-size: 30px;
+  z-index: 1;
+  overflow: hidden;
+  text-align: center;
+}
+.billing-cycle:before,
+.billing-cycle:after {
+  position: absolute;
+  top: 50%;
+  overflow: hidden;
+  width: 50%;
+  height: 1px;
+  content: '\a0';
+  background-color: #d1cfcf;
+}
+.billing-cycle:before {
+  margin-left: -51%;
+  text-align: right;
+}
+
+.billing-cycle:after {
+  margin-left: 1%;
+  text-align: right;
+}
+
+.text-dark-cyan {
+  color: #287777;
+}
+
+.border-left-right-top-0 {
+  border-left: 0 !important ;
+  border-right: 0 !important ;
+  border-top: 0 !important ;
+}
+
+.border-dark-grey {
+  border-color: #d1cfcf !important;
+}
+
+.w-150 {
+  width: 150% !important;
+}
+
+.dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 1.255em;
+}
+
+.bg-att_arrow_double {
+  background-image: url('../images/oie_Q3giFzNxd1xW.png');
+  background-repeat: no-repeat;
+  background-position: 25px 9px;
+  background-size: 60px;
+}
+
+.bg-cricket_arrow_double {
+  background-image: url('../images/cricket_arrows.png');
+  background-repeat: no-repeat;
+  background-position: 20px -13px;
+  background-size: 66px;
+}
+
+.bg-double-arrow {
+  background-repeat: no-repeat;
+  background-position: 20px -13px;
+  background-size: 66px;
+}
+
+.input-group-text.text-thin-cyan {
+  color: #24475e !important;
+}
+
+.text-medium-light-cyan-2 {
+  color: #d5efeb;
+}
+
+/* ============================================ */
+/* verion plan detail */
+div.card-button {
+  min-height: 180px;
+}
+
+.plan-detail-heading-h2 {
+  font-size: 1.7rem;
+}
+
+.media-body {
+  line-height: 20px;
+}
+/* ============================================ */
+
+/* Convex Shadow */
+.effect7 {
+  position: relative;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3),
+    0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3),
+    0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.effect7:before,
+.effect7:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  top: 0;
+  bottom: 0;
+  left: 10px;
+  right: 10px;
+  -moz-border-radius: 100px / 10px;
+  border-radius: 100px / 10px;
+}
+.effect7:after {
+  right: 10px;
+  left: auto;
+  -webkit-transform: skew(8deg) rotate(3deg);
+  -moz-transform: skew(8deg) rotate(3deg);
+  -ms-transform: skew(8deg) rotate(3deg);
+  -o-transform: skew(8deg) rotate(3deg);
+  transform: skew(8deg) rotate(3deg);
+}
+
+.border-white {
+  border: 1px solid #ccc;
+}
+
+#portfolio-main-carousel .flickity-slider {
+  width: 72%;
+}
+
+.summary-block .line-per-month {
+  top: -5px;
+}
+
+/* horizontal scroll bar */
+.horizontal-scroll-bar {
+  padding: 4px;
+
+  /* width: 300px; */
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+/* capslock */
+.ls-capslock {
+  position: relative !important;
+}
+
+.ls-capslock-active {
+  border-color: rgba(255, 179, 179, 0.5);
+  box-shadow: 0 1px 1px rgba(255, 179, 179, 0.5) inset,
+    0 0 8px rgba(255, 179, 179, 1);
+  outline: 0 none;
+}
+
+.ls-capslock-message {
+  font-family: Arial, Verdana, sans-serif;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  color: rgba(255, 179, 179, 255);
+}
+
+.ls-capslock-message-showed {
+  display: inherit;
+}
+
+.card.glow-effect {
+  transition: transform 0.2s ease-in-out 0.1s;
+}
+
+.card.glow-effect:hover {
+  transform: scale(1.1);
+}
+
+.border-black {
+  border-color: black !important;
+}
+
+.text-muted {
+  color: #a6a6a6 !important;
+}
+
+.bg-muted {
+  background-color: #a6a6a6 !important;
+}
+
+.imei-location {
+  font-size: 0.8rem;
+}
+
+a[data-toggle='collapse'][aria-expanded='false'] {
+  border-radius: 5px;
+}
+
+a[data-toggle='collapse'][aria-expanded='true'] {
+  border-radius: 5px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+div.collapse.show {
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+div.list-group-item.bg-light-grey {
+  border-radius: 5px;
+}
+
+div.bg-image-testimonial-2 p.card-text {
+  font-size: 0.9rem;
+}
+
+/* font colors */
+.text-Boston-Blue {
+  color: #388bc1;
+}
+
+a.text-Boston-Blue:hover {
+  color: rgb(56, 139, 193, 0.7);
+}
+
+.how-it-works-heading-h3 {
+  font-size: 1.2rem;
+}
+
+.how-it-works-heading-p {
+  font-size: 0.9rem;
+}
+
+.w-15 {
+  width: 15%;
+}
+
+.w-8 {
+  width: 8%;
+}
+
+/* CheckBoxes */
+.custom-control-label[for='customCheck1Login']::before,
+.custom-control-label[for='customControlValidation1']::before,
+.custom-control-label[for='customCheck1Payment']::before,
+.custom-control-label[for='customCheck1shipping']::before {
+  border-radius: 0.25em;
+  top: 0.28rem;
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.custom-control-label[for='customCheck1Login']::after,
+.custom-control-label[for='customControlValidation1']::after,
+.custom-control-label[for='customCheck1Payment']::after,
+.custom-control-label[for='customCheck1shipping']::after {
+  background: no-repeat 77%/95% 68%;
+}
+
+.custom-control-input:checked
+  ~ .custom-control-label[for='customCheck1Login']::before,
+.custom-control-input:checked
+  ~ .custom-control-label[for='customControlValidation1']::before,
+.custom-control-input:checked
+  ~ .custom-control-label[for='customCheck1Payment']::before,
+.custom-control-input:checked
+  ~ .custom-control-label[for='customCheck1shipping']::before {
+  color: #fff;
+  border-color: #1f5760;
+  background-color: #1f5760;
+  box-shadow: none;
+}
+
+.border-color-mercury {
+  border-color: #e8e7e7 !important;
+}
+
+input[readonly] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: none;
+}
+
+/* password changes */
+#passwordHelp .custom-control-label::before {
+  border-radius: 0;
+  top: 0.2rem;
+  border-color: #d9e2ef;
+  background-color: #d9e2ef;
+}
+
+#passwordHelp
+  .custom-checkbox
+  .custom-control-input:checked
+  ~ .custom-control-label::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%50' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26l2.974 2.99L8 2.193z'/%3e%3c/svg%3e");
+  background-size: 75%;
+  top: 0.2rem;
+}
+
+hr#progressbar,
+ul.top-horizontal-lines li.active {
+  background-color: #579b9d !important;
+}
+
+div.card
+  .dropdown.bootstrap-select
+  .btn-light[data-id='example5-state-billing'] {
+  color: black;
+  font-weight: bolder;
+  background-color: #f9fbfd;
+  border-color: #d3d2d2;
+  box-shadow: none;
+  padding: 0.8125rem 1.25rem;
+}
+
+a.nav-link:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+
+h2.new-number-h3.billing {
+  font-size: 1.5rem;
+}
+
+.text-Fruit-Salad {
+  color: #54a84d;
+}
+
+.text-Pomegranate {
+  color: #f44336;
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+div.post-circle-home span.first {
+  position: relative;
+  top: -10px;
+}
+
+div.post-circle-home span.second {
+  position: relative;
+  top: -18px;
+}
+
+div.post-circle-home span.plus {
+  font-size: 2rem;
+  position: relative;
+  top: 5px;
+}
+
+.btn-full-circle {
+  color: white;
+  background-color: #aaa9a9;
+}
+
+.sim-number-p {
+  font-size: 0.8rem !important;
+}
+
+div#remove_circle_buttons label.btn {
+  width: 230px;
+}
+
+.circle {
+  /* background-color: #267273; */
+  background-image: radial-gradient(
+    circle at 100px 100px,
+    #267273,
+    rgba(40, 67, 68, 1)
+  );
+
+  color: white;
+  border-radius: 50%;
+  height: 200px;
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+
+.initials {
+  font-size: calc(200px / 2); /* 50% of parent */
+  line-height: 1;
+  position: relative;
+  top: calc(200px / 4); /* 25% of parent */
+}

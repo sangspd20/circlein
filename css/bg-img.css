@@ -1,0 +1,370 @@
+.bg-grid-plan-verizon-2{
+    background-image: url('../images/verizon-2.png');
+    background-repeat: no-repeat;
+    background-size: 152% 188%;
+}
+
+.bg-grid-plan-size-3{
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+.bg-grid-plan-verizon-3{
+    background-image: url('../images/verizon.webp');
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+.bg-google-btn{
+    background-image: url('../images/google.webp');
+}
+.bg-hbo-btn{
+    background-image: url('../images/hbo.webp');
+}
+.bg-crunchy-btn{
+    background-image: url('../images/crunchy.webp');
+}
+.bg-youtube-btn{
+    background-image: url('../images/youtube.webp');
+}
+
+.bg-grid-plan-4{
+    background-image: url('../images/oie_tgO4PtkkvuY3.webp');
+    background-repeat: no-repeat;
+    background-size: 108% 160%;
+}
+
+.bg-grid-plan_att_mobile{
+    background-image: url('../images/att.webp');
+    background-repeat: no-repeat;
+    background-size: 108% 160%;
+}
+.bg-grid-plan_t_mobile{
+    background-image: url('../images/tmobile.webp');
+    background-repeat: no-repeat;
+    background-size: 108% 160%;
+}
+.bg-grid-plan_verizon_mobile{
+    background-image: url('../images/verizon.webp');
+    background-repeat: no-repeat;
+    background-size: 108% 160%;
+}
+
+
+
+.bg-grid-plan-T-Mobile-2 {
+    background-image: url('../images/t-mobile.png');
+    background-repeat: no-repeat;
+    background-size: 160% 185% ;
+}
+
+.bg-grid-plan-T-Mobile-3{
+    background-image: url('../images/tmobile.webp');
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+
+.bg-gird-plan-AT-T-2 {
+    background-image: url('../images/att.png');
+    background-repeat: no-repeat;
+    background-size: 158% 180%;
+}
+
+.bg-gird-plan-AT-T-3{
+    background-image: url('../images/att.webp');
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+.bg-gird-plan-Cricket-3{
+    background-image: url('../images/circket.webp');
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+.bg-gird-plan-Cricket{
+    background-image: url('../images/circket.webp');
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+.bg-gird-plan-see-more-circles{
+    background-image: url('../images/oie_tgO4PtkkvuY3.webp');
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+
+
+
+.bg-how_header{
+    background-image: url("../images/how_header.png");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    
+}
+
+
+/* Faq page header section backgrouund iamges */
+
+.bg-faq_header{
+    background-image: url("../images/faq_header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 250px;
+}
+
+
+
+
+.bg-img-post-plan{
+    background-image: url("../images/oie_Up56HWfAOGEi.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x: -10px;
+    background-position-y: 0px;
+}
+
+
+
+/* Small & Medium Sized Screen */
+
+@media (max-width: 768px) {
+    .bg-grid-plan-verizon-2,  .bg-grid-plan-T-Mobile-2, .bg-gird-plan-AT-T-2  {
+        background-position: 50%;
+    }
+    .bg-savings{
+        background-size: 401px;
+        background-position-x: 14px;
+        background-position-y: 8px;
+    }
+}
+
+.bg-right-circles{
+    background-image: url("../images/Right_circles.webp");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: top right;
+}
+
+
+.bg-top-header{
+    background-image: url("../images/Closer_lines2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: bottom; */
+}
+
+.bg-helpdesk{
+    background-image: url("../images/bg-helpdesk.webp" );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-savings{
+    background-image: url("../images/Est_Savings.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 381px
+}
+
+
+@media(max-width:400px){
+    .bg-helpdesk{
+        background-image: url("../images/Gradient_savings.webp" );
+    }
+    .bg-savings{
+    background-image: url("../images/Est_Savings.webp");
+    background-size: 341px;
+    background-position-x: 14px;
+    background-position-y: 8px;
+    }
+}
+
+@media screen and (min-width : 1300px) {
+   .home-top-header{
+       width: 120%;
+       
+   }
+}
+
+
+
+@media screen and (min-width : 1400px) {
+    
+    .home-top-header{
+        width: auto;
+        margin-top: 2.5rem !important;
+    }
+
+
+}
+
+
+.bg-posting{
+    background-image: url("../images/Post_Join_Plan.webp");
+    background-repeat: no-repeat;
+    background-size: 19%;
+background-position: 48% -6%;
+}
+
+
+.bg-posting::after {
+    background-color: white;
+    content: "";
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    /* width: 30%; */
+    /* rotate: 90deg; */
+    width: 19%;
+/* rotate: 90deg; */
+left: 502px;
+top: -133px;
+-webkit-transform:rotate(-90deg) scaleX(-1);
+/* -moz-transform: rotate(-90deg) scaleX(-1); */
+/* -ms-transform: rotate(-90deg) scaleX(-1); */
+/* -o-transform: rotate(-90deg) scaleX(-1) */
+}
+  
+  
+
+.bg-blue-shade{
+    background: rgb(52,113,151);
+    background: linear-gradient(90deg, rgba(52,113,151,1) 25%, rgba(47,101,134,1) 55%); 
+}
+
+
+.bg-right-circles-mobile {
+    background-image: url("../images/Right_circles.webp");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: top right;
+    
+}
+
+
+.bg-account-owner-left-circles{
+    background-image: url("../images/oie_nHo56vVz8mmS.png");
+    background-repeat: no-repeat;
+    /* background-size: 200px;
+    background-position: 319px 0px; */
+    background-size: 144px;
+    /* background-position: 400px 0px; */
+}
+
+
+
+.bg-card-hexagonial{
+    background-image: url('../images/home_1.webp');
+    background-size: auto 50%;
+    background-repeat: no-repeat;
+    background-position: right top;
+  }
+
+
+.bg-card-hexagonial-att {
+    background-image: url('../images/ATT_hexagonal.webp');
+    background-size: auto 50%;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.bg-card-hexagonial-t_mobile {
+    background-image: url('../images/t_mobile_hexagonal.webp');
+    background-size: auto 27%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.bg-card-hexagonial-cricket {
+    background-image: url('../images/cricket_hexagons.png');
+    background-size: auto 58%;
+    background-repeat: no-repeat; 
+    background-position: left bottom;
+}
+
+@media screen and 
+    (min-width:992px) and
+    (max-width:1024px) and
+    (orientation : landscape){
+        .bg-card-hexagonial-t_mobile, .bg-card-hexagonial-att , .bg-card-hexagonial {
+            background-size: auto 35%;
+        }
+/* .bg-plan-detail-verizon {
+    background-image: url('../images/red_circles.png');
+    background-size: 12%;
+    background-repeat: no-repeat;
+    background-position: 82% 50%;
+    border-radius: 6.5rem !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+} */
+
+.bg-plan-detail-verizon {
+    background-image: url('../images/red_circles.png');
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: 104% 51%;
+    border-radius: 6.5rem !important;
+        border-top-left-radius: 6.5rem;
+        border-top-right-radius: 6.5rem;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+
+.bg-plan-detail-T_Mobile {
+    background-image: url('../images/oie_e05COai3ICNw.png');
+    background-size:14%;
+    background-repeat: no-repeat;
+    background-position: 100% 54%;
+    border-radius: 6.5rem !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.bg-plan-detail-cricket {
+    background-image: url('../images/cricket_bg.png');
+    background-size: 14%;
+    background-repeat: no-repeat;
+    background-position: 100% 54%;
+    border-radius: 6.5rem !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.bg-plan-detail-att {
+    background-image: url('../images/oie_GsZjCAaXj7JU.png');
+    background-size: 14%;
+    background-repeat: no-repeat;
+    background-position: 100% 54%;
+    border-radius: 6.5rem !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.bg-how-it-works-three-sections{
+    background-image: url('../images/oie_kMOvr3It3JI9.png');
+    background-size: 22%;
+background-repeat: no-repeat;
+background-position: 100% 32%;
+}
+
+
+
+
+.bg-subscription-manger{
+    background-image: url('../images/oie_yP1WRRjjIF4r.png');
+    background-size: 14%;
+    background-repeat: no-repeat;
+    background-position: -1% 190px;
+}
+
+
+.bg-subscription-manger-2{
+    background-image: url('../images/oie_yP1WRRjjIF4r.png');
+    background-size: 14%;
+    background-repeat: no-repeat;
+    background-position: -2px 300px;
+}
+    

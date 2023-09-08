@@ -1,0 +1,3327 @@
+@media only screen and (max-width: 360px) {
+  section.bg-faq_header .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 10px;
+  }
+
+  p.contact_us_description {
+    font-size: 0.9rem !important;
+  }
+
+  p.card-text.home_top_description {
+    font-size: 11px !important;
+  }
+
+  h2.card-title {
+    font-size: 1.1rem;
+  }
+
+  a.font-size-xm {
+    font-size: 0.7rem;
+  }
+
+  span.font-size-xm {
+    font-size: 0.8rem;
+  }
+
+  button#dropdownMenuButton.h1 {
+    font-size: 0.875rem;
+  }
+
+  .dropdown-item.text-center.text-dark.h3.py-3.Mont-Bold.mx-auto.font-size-sm.font-size-iphone-6 {
+    font-size: 0.875rem !important;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+
+  /* Summary Block */
+  div.summary-block p.card-text {
+    font-size: 0.875rem;
+  }
+
+  .row.is-flex > [class*='col-'] > div > a {
+    min-height: 90px;
+    font-size: 1.2rem;
+  }
+
+  .people-img-about {
+    margin-right: 20px;
+  }
+
+  .people-img-faq {
+    max-width: 94px !important;
+    min-width: 94px !important;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+}
+
+/* Samsung galaxy s21 */
+@media only screen and (min-width: 360px) and (max-width: 800px) and (-webkit-device-pixel-ratio: 3) {
+  p.contact_us_description {
+    font-size: 0.9rem !important;
+  }
+
+  p.card-text.home_top_description {
+    font-size: 11px !important;
+  }
+
+  .button-google::before {
+    left: -10%;
+  }
+
+  .button-facebook::before {
+    left: -8%;
+  }
+
+  div.joined-plans h3.card-title {
+    font-size: 1.3rem;
+  }
+
+  div.joined-plans p.plan-price {
+    font-size: 0.8rem;
+  }
+
+  div.joined-plans p.card-text.font-size-xm {
+    font-size: 0.8rem;
+  }
+
+  div.joined-plans .progress {
+    height: 0.5rem;
+  }
+
+  div.joined-plans button[data-toggle='popover'] {
+    font-size: 0.9rem;
+  }
+
+  div.joined-plans p.card-text.font-size-xm {
+    font-size: 0.7rem;
+  }
+
+  div.joined-plans h3.plan-title {
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
+  button.btn.font-size-xm {
+    font-size: 0.6rem;
+  }
+
+  a.font-size-xm {
+    font-size: 0.6rem;
+  }
+
+  h1.card-title.heading-how {
+    font-size: 1.8rem;
+  }
+
+  .bg-how_header {
+    background-size: auto;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 50px;
+    background-position: 20px 19px;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 50px;
+    background-position: 20px 19px;
+  }
+
+  button#nextBtn.remove-circle {
+    width: 45%;
+  }
+
+  h1.card-title.font-size-xm.faq {
+    margin-top: 12px !important;
+    font-size: 20px;
+  }
+
+  section.bg-faq_header .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 10px;
+  }
+
+  h2.font-size-xl.profile {
+    font-size: 1rem;
+  }
+
+  h2.font-size-xm {
+    font-size: 1rem;
+  }
+
+  p#user_email_id {
+    font-size: 1.125rem;
+  }
+
+  p#small_address {
+    font-size: 1.1rem;
+  }
+
+  h4.bill-block {
+    font-size: 0.75rem;
+  }
+
+  h4.bill-block + p.card-text {
+    font-size: 0.7rem;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -6%;
+    left: 0px;
+    position: relative;
+  }
+
+  div.verizon-button > .font-size-sm {
+    font-size: 0.8rem !important;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button {
+    top: -10%;
+    left: 3px;
+    position: relative;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button > .font-size-sm {
+    font-size: 1rem !important;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 667px) and (-webkit-device-pixel-ratio: 2) {
+  p.contact_us_description {
+    font-size: 0.9rem !important;
+  }
+
+  p.card-text.home_top_description {
+    font-size: 11px !important;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 767px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+  div.joined-plans h3.plan-title {
+    font-size: 1.2rem;
+  }
+
+  button.btn.font-size-xm {
+    font-size: 0.875rem;
+  }
+
+  .people-img-about {
+    min-width: 150px !important;
+    max-width: 150px !important;
+  }
+
+  .people-img-faq {
+    margin-top: -10px !important;
+    max-width: 160px !important;
+    min-width: 160px !important;
+  }
+
+  div.summary-block p.card-text {
+    font-size: 1.4rem;
+  }
+
+  h6 {
+    font-size: 1.15rem;
+  }
+
+  div.join-process .font-size-lg {
+    font-size: 1.8rem !important;
+  }
+
+  h2.font-size-xl.profile {
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 800px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+  button#dropdownMenuButton.h1 {
+    font-size: 0.875rem;
+  }
+
+  h2.card-title {
+    font-size: 1.9375rem;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 60px;
+    background-position: 25px 20px;
+  }
+
+  button#prevBtn.remove-circle {
+    width: 58%;
+  }
+
+  span.font-size-xm,
+  #dropdownMenuButton,
+  label.font-size-xm {
+    font-size: 0.8rem;
+  }
+}
+
+/* iphone 7  */
+@media screen and (min-width: 375px) and (max-width: 667px) and (-webkit-device-pixel-ratio: 2) {
+  h2.font-size-xm {
+    font-size: 1.2rem;
+  }
+
+  h2.font-size-xsm {
+    font-size: 1rem;
+  }
+
+  p.h2.font-size-xm {
+    font-size: 1rem;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+
+  div.joined-plans p.card-text.font-size-xm {
+    font-size: 0.8rem;
+  }
+
+  div.joined-plans .progress {
+    height: 0.5rem;
+  }
+
+  div.joined-plans h3.plan-title {
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
+  div.joined-plans p.plan-price {
+    font-size: 0.8rem;
+  }
+
+  button#nextBtn.remove-circle {
+    width: 45%;
+  }
+
+  .bg-how_header {
+    background-size: auto;
+  }
+
+  .people-img-about {
+    margin-right: 25px;
+
+    max-width: 136px !important;
+    min-width: 100px !important;
+  }
+
+  button#dropdownMenuButton.h1 {
+    font-size: 0.875rem;
+  }
+
+  h2.card-title {
+    font-size: 1.3rem;
+  }
+
+  h4.card-title {
+    font-size: 1.2rem;
+  }
+
+  h3.card-title {
+    font-size: 1.2rem;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 50px;
+    background-position: 20px 19px;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-att_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-cricket_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-double-arrow {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -6%;
+    left: 1px;
+    position: relative;
+  }
+
+  div.verizon-button > .font-size-sm {
+    font-size: 0.8rem !important;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button {
+    top: -10%;
+    left: 3px;
+    position: relative;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button > .font-size-sm {
+    font-size: 1rem !important;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  div.summary-block p.card-text {
+    font-size: 0.875rem;
+  }
+}
+
+/* iPhone 7 landscape version */
+@media screen and (min-width: 375px) and (max-width: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  h2.font-size-xm {
+    font-size: 1.5rem;
+  }
+
+  h2.font-size-xsm {
+    font-size: 1.5rem;
+  }
+
+  div.joined-plans h3.plan-title {
+    white-space: nowrap;
+  }
+
+  div.joined-plans p.card-text.font-size-xm,
+  div.joined-plans h3.plan-title,
+  div.joined-plans p.plan-price {
+    font-size: 1.0625rem;
+  }
+
+  .btn.btn-medium-light-cyan-2.font-size-xm,
+  .btn.btn-initiate-port.font-size-xm {
+    font-size: 0.875rem;
+  }
+
+  button#nextBtn.remove-circle {
+    width: 30%;
+  }
+
+  .bg-faq_header {
+    background-position-y: -20px;
+    background-size: 163%;
+  }
+
+  .people-img-faq {
+    max-width: 160px !important;
+    min-width: 100px !important;
+    padding-top: 1rem !important;
+  }
+
+  .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 1rem;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-position: 128px 21px;
+  }
+
+  .bg-verizon_arrow_double {
+    background-position: 102px 18px;
+  }
+
+  h2.card-title {
+    font-size: 2rem;
+  }
+
+  h4.card-title {
+    font-size: 1.5rem;
+  }
+
+  h3.card-title {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 812px) and (orientation: portrait) {
+  .row.is-flex > [class*='col-'] > div > a {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 375px) and (orientation: landscape) {
+  img.why_circledin,
+  img.customer_success,
+  img.join_existing,
+  img.post-account-img,
+  img.circledin_cares {
+    max-width: 50%;
+    min-width: 50%;
+  }
+
+  .bg-verizon-circular-4 {
+    background-image: url('../images/3_2.png');
+    /* background-position: -58px -43px; */
+    background-position: 0px;
+    background-size: 85%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    height: 350px;
+  }
+
+  .bg-verizon-circular {
+    background-image: url('../images/verizon_circle.png');
+    /* background-position: -58px -43px; */
+    background-position: -40px -4px;
+    background-size: 100% 112%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* BG 2 */
+  .bg-verizon-circular-2 {
+    background-image: url('../images/Copy%20of%205.png');
+    background-position: -2px -20px;
+    background-size: 80%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* BG 2 */
+  .bg-verizon-circular-5 {
+    background-image: url('../images/home_verizon.png');
+    background-position: -8px -11px;
+    background-size: 82%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* BG FULL */
+  .bg-verizon-circular-3 {
+    /* background-image: url('../images/verizon_circle.png'); */
+    background-image: url('../images/full_circle_verizon.png');
+    /* background-position: -60px -30px; */
+    background-position: -12px -6px;
+    /* background-size:80%; */
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular-3 {
+    background-image: url('../images/5_4.png');
+    background-position: -12px -6px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-3 {
+    background-image: url('../images/8_2.png');
+    background-position: -12px -6px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.card > div.card-vody.bg-verizon-circular h1,
+  span,
+  p,
+  a,
+  .h1,
+  .h6 {
+    line-height: 1.4;
+  }
+
+  div.card > div.card-body.bg-verizon-circular h1 {
+    font-size: 1.2rem;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+    left: -102px;
+    top: -65px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+    left: -78px;
+    top: -46px;
+    display: block;
+  }
+
+  div.verizon-button {
+    top: -5px;
+    left: 4px;
+  }
+
+  .bg-T-Mobile-circular-4 {
+    background-image: url('../images/post_circle.png');
+    background-position: 0px -14px;
+    background-size: 84%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-4 {
+    background-image: url('../images/9.png');
+    background-position: 0px -14px;
+    background-size: 84%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular {
+    background-image: url('../images/tmobile_circle.png');
+    /* background-size: 29rem;
+        background-position: -57px -50px;
+        background-repeat: no-repeat; */
+    /* background-position: -62px -55px; */
+    background-position: -40px -42px;
+    /* background-size:120%; */
+    background-size: 100%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular-2 {
+    background-image: url('../images/Copy%20of%209.png');
+    /* background-size: 29rem;
+        background-position: -57px -50px;
+        background-repeat: no-repeat; */
+    background-position: -2px -14px;
+    background-size: 80%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular-6 {
+    background-image: url('../images/Home_t_mobile.png');
+    background-position: -10px -12px;
+    background-size: 85%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-6 {
+    background-image: url('../images/7_2.png');
+    background-position: -10px -12px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1 {
+    font-size: 1.2rem;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1,
+  span,
+  p,
+  a,
+  .h1,
+  .h6 {
+    line-height: 1.4;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+    left: -103px;
+    top: -71px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+    left: -80px;
+    top: -53px;
+    display: block;
+  }
+
+  div.T-Mobile-button {
+    top: 3px;
+    left: 10px;
+  }
+
+  div.T-button {
+    top: 30px;
+    left: 0px;
+    position: relative;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular hr {
+    width: 45%;
+    margin-left: 55px !important;
+  }
+
+  h1.font-size-ipad-32 {
+    font-size: 30px;
+  }
+
+  div.card.bg-image-testimonial {
+    width: 20rem !important;
+  }
+
+  .bg-image-testimonial {
+    background-image: url('../images/customer_testimonial.png');
+    background-size: 315px 270px;
+    background-repeat: no-repeat;
+  }
+}
+
+/* iPhone 8 (13) */
+@media screen and (min-width: 375px) and (max-width: 667px) {
+  .btn-how-it-works {
+    font-size: 0.7rem;
+  }
+
+  .bg-verizon-circular {
+    background-image: url('../images/verizon_circle_wsmall.png');
+    background-size: 26.6rem 25rem;
+    background-position: -38px -32px;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular {
+    background-image: url('../images/tmobile_circlewsmall.png');
+    background-size: 26.5rem 24.5rem;
+    background-position: -50px -45px;
+    background-repeat: no-repeat;
+  }
+
+  div.card > div.card-body.bg-verizon-circular h1,
+  div.card > div.card-body.bg-verizon-circular h3 {
+    font-size: 1rem;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1,
+  div.card > div.card-body.bg-verizon-circular h3 {
+    font-size: 1rem;
+  }
+
+  div.card > div.card-body.bg-verizon-circular h1,
+  div.card > div.card-body.bg-verizon-circular span,
+  div.card > div.card-body.bg-verizon-circular p,
+  div.card > div.card-body.bg-verizon-circular a,
+  div.card > div.card-body.bg-verizon-circular .h1,
+  div.card > div.card-body.bg-verizon-circular .h6 {
+    line-height: 1;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1,
+  div.card > div.card-body.bg-T-Mobile-circular span,
+  div.card > div.card-body.bg-T-Mobile-circular p,
+  div.card > div.card-body.bg-T-Mobile-circular a,
+  div.card > div.card-body.bg-T-Mobile-circular .h1,
+  div.card > div.card-body.bg-T-Mobile-circular .h6 {
+    line-height: 1;
+  }
+
+  div.card > div.card-body.bg-verizon-circular hr {
+    width: 45%;
+    margin-left: 45px !important;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular hr {
+    width: 45%;
+    margin-left: 45px !important;
+  }
+
+  div.card
+    > div.card-body.bg-verizon-circular
+    div
+    div.media-body
+    p:first-child {
+    width: 60%;
+  }
+
+  div.card
+    > div.card-body.bg-T-Mobile-circular
+    div
+    div.media-body
+    p:first-child {
+    width: 60%;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+    left: -62px;
+    top: -5px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+    left: -72px;
+    top: -12px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+    left: -44px;
+    top: 14px;
+    display: block;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+    left: -53px;
+    top: 8px;
+    display: block;
+  }
+
+  div.verizon-button {
+    top: -21px;
+    left: 4px;
+  }
+
+  div.T-Mobile-button {
+    top: -31px;
+    left: -9px;
+  }
+
+  div.card.bg-image-testimonial {
+    width: 20rem !important;
+  }
+
+  .bg-image-testimonial {
+    background-image: url('../images/customer_testimonial.png');
+    background-size: 349px 229px;
+    background-repeat: no-repeat;
+  }
+
+  .row.is-flex > [class*='col-'] > div > a,
+  .row.is-flex > [class*='col-'] > div > p {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 10px;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .row.is-flex > [class*='col-'] > div > p {
+    min-height: 30px;
+    justify-content: normal;
+    position: absolute;
+    top: -15px !important;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    /* margin-top: -20px ; */
+  }
+
+  div.T-Mobile-button {
+    top: -9px;
+    left: -8px;
+    position: relative;
+  }
+
+  div.T-button {
+    top: 20px;
+    left: 12px;
+    position: relative;
+  }
+
+  .row.is-flex > [class*='col-'] > div > a {
+    font-size: 1.5rem;
+  }
+
+  /* New Number Verizon */
+  .new-number-h3,
+  h2.card-title.new-number-h3,
+  h2.new-number-h3,
+  h3.new-number-h3 {
+    font-size: 1rem;
+  }
+
+  h2.card-title.new-number-h3.billing {
+    font-size: 0.86rem;
+  }
+
+  .new-number-p,
+  h3.card-title.new-number-p,
+  .new-number-p.h3 {
+    font-size: 0.8rem;
+  }
+
+  /* .bg-account-owner-left-circles {
+    background-position: 0px -1px;
+} */
+}
+
+/* iPhone XS (14) */
+@media screen and (min-width: 375px) and (max-width: 812px) and (orientation: landscape) {
+  section.bg-covered-box-img {
+    background-image: url('../images/coveredgrad.png');
+    background-repeat: no-repeat;
+    background-origin: 0;
+    background-position: -85px -30px;
+    background-size: 280px;
+  }
+
+  div.verizon-button {
+    top: 10px;
+    left: 4px;
+  }
+
+  div.T-Mobile-button {
+    top: 14px;
+    left: 12px;
+  }
+}
+
+/* iphone 11 pro */
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  span.h3.faq_heading_3 {
+    font-size: 1rem;
+  }
+
+  h2.font-size-xm.display-5 {
+    font-size: 1.4rem;
+  }
+
+  h1.font-size-xm {
+    font-size: 1.4rem;
+  }
+
+  h3.font-size-xm.plan-title {
+    font-size: 0.8rem;
+  }
+
+  h3.font-size-xm.order-number,
+  h3.font-size-xm.finish {
+    font-size: 1rem;
+  }
+
+  span.font-size-xm,
+  #dropdownMenuButton,
+  label.font-size-xm {
+    font-size: 0.8rem;
+  }
+}
+
+/* iphone 12 pro */
+/* iphone 6/7/8 plus ios 11 */
+@media only screen and (min-width: 390px) and (max-width: 844px) and (-webkit-device-pixel-ratio: 3) {
+  li.nav-item[role='presentation'] {
+    font-size: 11px;
+  }
+
+  form#subscription-form label.h3 {
+    font-size: 1.1rem;
+  }
+
+  .category-title::after {
+    left: 0.5em;
+    width: 70%;
+  }
+
+  .category-title.verizon::after {
+    width: 77%;
+    max-width: 77%;
+  }
+
+  .category-title.att::after {
+    width: 84%;
+    max-width: 84%;
+  }
+
+  .category-title.cricket::after {
+    width: 51%;
+    max-width: 72%;
+  }
+
+  .category-title.google::after {
+    width: 72%;
+    max-width: 72%;
+  }
+
+  .category-title.t-mobile::after {
+    width: 72%;
+    max-width: 72%;
+  }
+
+  /* Home Phone Cards */
+  .bg-grid-plan_verizon_mobile,
+  .bg-grid-plan_t_mobile,
+  .bg-grid-plan_att_mobile,
+  .bg-grid-plan-4,
+  .bg-gird-plan-Cricket,
+  .bg-grid-plan-size {
+    background-size: auto 110%;
+  }
+
+  /* ******* plan detail page ***********/
+
+  div.card-button div.card-body {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  div.card-button:nth-child(2n + 1) {
+    padding-right: 3px;
+  }
+
+  div.card-button:nth-child(2n) {
+    padding-left: 3px;
+  }
+
+  div.card-button {
+    min-height: 120px;
+  }
+
+  .verizon-p {
+    font-size: 0.7rem;
+  }
+
+  .plan-detail-heading-h2 {
+    font-size: 1rem;
+  }
+
+  .plan-detail-heading-h3.h3 {
+    font-size: 0.9rem;
+  }
+
+  .billing-cycle {
+    position: relative;
+    font-size: 15px;
+  }
+
+  .plan-detail-heading-h1 {
+    font-size: 1.4rem;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-att_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-cricket_arrow_double {
+    background-size: 40px;
+    background-position: 8px -6px;
+  }
+
+  .bg-double-arrow {
+    background-size: 40px;
+    background-position: 8px -6px;
+  }
+
+  h2.card-title.total {
+    font-size: 1.8rem;
+  }
+
+  img.plan-offer-1 {
+    width: 50px !important;
+  }
+
+  img.plan-offer-4 {
+    width: 35px !important;
+    margin-left: 5px;
+    margin-right: auto;
+  }
+
+  .bg-plan-detail-verizon,
+  .bg-plan-detail-T_Mobile,
+  .bg-plan-detail-att {
+    border-radius: 2.5rem !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+  }
+
+  /* *************************** */
+
+  img.forgot_password {
+    margin-left: -5rem !important;
+  }
+
+  div#exampleModalPayment h1.modal-title.font-size-xm {
+    font-size: 1.5rem;
+  }
+
+  p.card-text.home_top_description {
+    font-size: 13px !important;
+  }
+
+  .row.is-flex > [class*='col-'] > div > a {
+    font-size: 1.5rem;
+  }
+
+  h3.post-plan-hubspot-heading {
+    font-size: 1.38rem;
+  }
+
+  .bg-verizon-circular-5 {
+    background-position: -13px -8px;
+    background-size: 85%;
+  }
+
+  .bg-T-Mobile-circular-6 {
+    background-position: -12px -12px;
+    background-size: 82%;
+  }
+
+  .bg-T-circular-6 {
+    background-position: -12px -12px;
+    background-size: 82%;
+  }
+
+  div.T-Mobile-button {
+    top: 4px;
+    left: -4px;
+    position: relative;
+  }
+
+  div.verizon-button {
+    top: -6px;
+    left: -2px;
+    position: relative;
+  }
+
+  .w-84 {
+    width: 88%;
+  }
+
+  .list-group-item {
+    border: none;
+  }
+
+  img.people-img-about {
+    margin-right: 25px;
+    max-width: 140px !important;
+    min-width: 99px !important;
+  }
+
+  h3.about-us-heading {
+    margin-left: -17px;
+  }
+
+  .img-abt_us_right {
+    background: url('../images/abt_us_right.png') no-repeat 144% 49%;
+
+    background-size: 50%;
+  }
+
+  h1.card-title.font-size-xm.faq {
+    margin-top: 12px !important;
+    font-size: 23px;
+  }
+
+  a#ask-a-question {
+    font-size: 1rem;
+  }
+
+  h2.card-title {
+    font-size: 1.1rem;
+  }
+
+  button#dropdownMenuButton.h1 {
+    font-size: 0.875rem;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+
+  div.summary-block p.card-text {
+    font-size: 0.875rem;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -6%;
+    left: -9px;
+    position: relative;
+  }
+
+  div.verizon-button > .font-size-sm {
+    font-size: 0.8rem !important;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button {
+    top: -9%;
+    left: -8px;
+    position: relative;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button > .font-size-sm {
+    font-size: 1rem !important;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  span.h3.faq_heading_3 {
+    font-size: 1rem;
+  }
+}
+
+/* iphone 11 pro max */
+/* 1792x828px at 326ppi */
+@media only screen and (min-width: 414px) and (max-width: 896px) and (-webkit-device-pixel-ratio: 3) {
+  p.font-size-xm,
+  a.font-size-xm,
+  p.h3.font-size-xm,
+  button.font-size-xm {
+    font-size: 0.7rem;
+  }
+
+  h3.font-size-xm.card-title {
+    font-size: 1.2rem;
+  }
+
+  span.font-size-xm,
+  #dropdownMenuButton,
+  label.font-size-xm {
+    font-size: 0.8rem;
+  }
+
+  button#nextBtn.remove-circle {
+    width: 40%;
+  }
+
+  div.joined-plans h3.card-title {
+    font-size: 1.3rem;
+  }
+
+  div.joined-plans h3.plan-title {
+    font-size: 0.875rem;
+  }
+
+  div.joined-plans p.plan-price {
+    font-size: 0.875rem;
+  }
+
+  div.joined-plans p.card-text.font-size-xm {
+    font-size: 0.875rem;
+  }
+
+  div.joined-plans .progress {
+    height: 0.5rem;
+  }
+
+  div.T-Mobile-button {
+    top: -9px;
+    left: -8px;
+    position: relative;
+  }
+
+  div.T-button {
+    top: 16px;
+    left: -8px;
+    position: relative;
+  }
+
+  .category-title::after {
+    width: 70%;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+  .category-title::after {
+    width: 70%;
+  }
+
+  button#nextBtn.remove-circle {
+    width: 50%;
+  }
+
+  button#nextBtn.remove-circle::after {
+    padding-left: 0px;
+  }
+
+  div.joined-plans h3.card-title {
+    font-size: 1.3rem;
+  }
+
+  div.joined-plans h3.plan-title {
+    font-size: 1.175rem;
+  }
+
+  div.joined-plans p.plan-price {
+    font-size: 1rem;
+  }
+
+  div.joined-plans p.card-text.font-size-xm {
+    font-size: 1rem;
+  }
+
+  div.joined-plans .progress {
+    height: 0.5rem;
+  }
+
+  p.font-size-xm,
+  a.font-size-xm,
+  p.h3.font-size-xm,
+  button.font-size-xm {
+    font-size: 0.875rem;
+  }
+}
+
+/* iPhone XS Max (12) */
+@media screen and (min-width: 414px) and (max-width: 896px) and (orientation: landscape) {
+  section.bg-covered-box-img {
+    background-image: url('../images/coveredgrad.png');
+    background-repeat: no-repeat;
+    background-origin: 0;
+    background-position: -85px -30px;
+    background-size: 220px;
+  }
+
+  div.verizon-button {
+    top: 0px;
+    left: 4px;
+  }
+
+  div.T-Mobile-button {
+    top: 25px;
+    left: -19px;
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 667px) and (orientation: landscape) {
+  section.bg-covered-box-img {
+    background-image: url('../images/coveredgrad.png');
+    background-repeat: no-repeat;
+    background-origin: 0;
+    background-position: -85px -30px;
+    background-size: 250px;
+  }
+
+  div.verizon-button {
+    top: -12px;
+    left: -4px;
+  }
+
+  div.T-Mobile-button {
+    top: -16px;
+    left: -10px;
+  }
+
+  div.iphone-6-plus-mt-50 h2 {
+    margin-top: 0px;
+    font-size: 2rem;
+    display: block;
+    width: 100%;
+  }
+}
+
+/* iPhone  X (12) */
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  section.bg-covered-box-img {
+    background-image: url('../images/coveredgrad.png');
+    background-repeat: no-repeat;
+    background-origin: 0;
+    background-position: -85px -30px;
+    background-size: 250px;
+  }
+
+  div.verizon-button {
+    top: 10px;
+    left: 4px;
+  }
+
+  div.T-Mobile-button {
+    top: 14px;
+    left: 12px;
+  }
+
+  div.iphone-6-plus-mt-50 h2 {
+    margin-top: 0px;
+    font-size: 2rem;
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 414px) and (max-width: 736px) and (orientation: landscape) {
+  section.bg-covered-box-img {
+    background-image: url('../images/coveredgrad.png');
+    background-repeat: no-repeat;
+    background-origin: 0;
+    background-position: -85px -30px;
+    background-size: 280px;
+  }
+
+  div.verizon-button {
+    top: 10px;
+    left: 4px;
+  }
+
+  div.T-Mobile-button {
+    top: 14px;
+    left: 12px;
+  }
+
+  div.iphone-6-plus-mt-50 h2 {
+    margin-top: 0px;
+    font-size: 2rem;
+    display: block;
+    width: 100%;
+  }
+}
+
+/* iPhone 8 (11) */
+@media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  div.verizon-button {
+    top: -10px;
+    left: -4px;
+  }
+
+  div.T-Mobile-button {
+    top: -15px;
+    left: -5px;
+  }
+}
+
+/* iPhone SE (11) */
+@media only screen and (device-width: 320px) and (device-width: 568px) {
+  .bg-verizon-circular {
+    background-image: url('../images/verizon_circle_wsmall.png');
+    background-size: 89%;
+    background-position: -41px -16px;
+    background-repeat: no-repeat;
+  }
+
+  div.card-body.bg-verizon-circular {
+    padding-left: 20px !important;
+  }
+
+  div.card-body.bg-verizon-circular img {
+    /* padding-left: 20px !important; */
+    width: 20px !important;
+  }
+
+  div.card > div.card-body.bg-verizon-circular h1,
+  h3,
+  h3.card-title.font-size-xm.circle-heading {
+    font-size: 0.8rem;
+    margin-left: -20px !important;
+  }
+
+  div.card > div.card-body.bg-verizon-circular hr {
+    width: 30%;
+    margin-left: 40px !important;
+  }
+
+  h3.card-title.font-size-xm.circle-heading {
+    margin-left: -50px !important;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1,
+  span,
+  p,
+  a,
+  .h1,
+  .h6 {
+    line-height: 1;
+  }
+
+  div.card
+    > div.card-body.bg-verizon-circular
+    div
+    div.media-body
+    p:first-child {
+    width: 50%;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-1 {
+    left: -120px;
+    top: -5px;
+    display: block;
+    /* font-size: 32px !important; */
+    font-size: 12px;
+  }
+
+  div#portfolio-main-carousel-verizon strong.small-circie-text-2 {
+    left: -106px;
+    top: 12px;
+    display: block;
+    font-size: 12px;
+  }
+
+  div.verizon-button {
+    top: -20px;
+    width: 80%;
+    left: -12px;
+  }
+
+  /* T-Mobile */
+  .bg-T-Mobile-circular {
+    background-image: url('../images/tmobile_circlewsmall.png');
+    background-size: 88%;
+    background-position: -41px -27px;
+    background-repeat: no-repeat;
+  }
+
+  div.card-body.bg-T-Mobile-circular {
+    padding-left: 20px !important;
+  }
+
+  div.card-body.bg-T-Mobile-circular img {
+    /* padding-left: 20px !important; */
+    width: 20px !important;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1,
+  h3,
+  h3.card-title.font-size-xm.circle-heading {
+    font-size: 0.8rem;
+    margin-left: -20px !important;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular hr {
+    width: 30%;
+    margin-left: 40px !important;
+  }
+
+  h3.card-title.font-size-xm.circle-heading {
+    margin-left: -50px !important;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular h1,
+  span,
+  p,
+  a,
+  .h1,
+  .h6 {
+    line-height: 1;
+  }
+
+  div.card
+    > div.card-body.bg-T-Mobile-circular
+    div
+    div.media-body
+    p:first-child {
+    width: 50%;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-1 {
+    left: -120px;
+    top: 0px;
+    display: block;
+    /* font-size: 32px !important; */
+    font-size: 12px;
+  }
+
+  div#portfolio-main-carousel-T-Mobile strong.small-circie-text-2 {
+    left: -106px;
+    top: 14px;
+    display: block;
+    font-size: 12px;
+  }
+
+  div.T-Mobile-button {
+    top: -23px;
+    width: 80%;
+    left: -10px;
+  }
+
+  div.card > div.card-body.bg-T-Mobile-circular hr {
+    width: 24%;
+    margin-left: 65px !important;
+  }
+
+  h3.card-title.font-size-xm.circle-heading {
+    margin-left: -32px !important;
+  }
+
+  h1.card-title.font-size-xm.card-section-heading {
+    font-size: 1rem !important;
+    padding-top: 15px;
+  }
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+/* iPhone 12 Mini */
+/* 2340x1080 pixels at 476ppi */
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+}
+
+/* iPhone 12 and iPhone 12 Pro */
+
+/* 2532x1170 pixels at 460ppi */
+@media only screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) {
+}
+
+/* iPhone 12 Pro Max */
+/* 2778x1284 pixels at 458ppi */
+@media only screen and (device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) {
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .bg-verizon-circular-2 {
+    background-image: url('../images/Copy%20of%205.png');
+    background-position: -2px -20px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular-2 {
+    background-image: url('../images/Copy%20of%209.png');
+    background-size: 29rem;
+    background-position: -57px -50px;
+    background-repeat: no-repeat;
+    background-position: -2px -14px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.main-carousel#portfolio-main-carousel-T-Mobile .flickity-viewport {
+    height: 380px !important;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  .category-title.verizon::after {
+    width: 88%;
+    max-width: 88%;
+  }
+
+  .category-title.att::after {
+    width: 92%;
+    max-width: 92%;
+  }
+
+  .category-title.cricket::after {
+    width: 78%;
+    max-width: 78%;
+  }
+
+  .category-title.google::after {
+    width: 87%;
+    max-width: 87%;
+  }
+
+  .category-title.t-mobile::after {
+    width: 86%;
+    max-width: 86%;
+  }
+}
+
+@media (min-width: 768px) {
+  .bg-howitworks4 {
+    background-position: -11% -32%;
+  }
+
+  div#portfolio-main-carousel-testimonal div.carousel-cell .card {
+    /* width: 50%; half-width */
+    height: 460px;
+    /* margin-right: 10px; */
+  }
+
+  .img-abt_us_right {
+    background-position: 130% center;
+    background-size: 40%;
+  }
+
+  /* div#open_case_buttons label{
+        max-width: 24%;
+    } */
+}
+
+@media (max-width: 991.98px) {
+  .h3 {
+    font-size: 1.325rem;
+  }
+
+  .bg-img-edit-profile {
+    background-image: url('../images/circle.png');
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: 111% -10%;
+  }
+
+  .bg-verizon-circular-6 {
+    background-image: url('../images/1_4.png');
+    background-position: 0px;
+    background-size: 96%;
+    /* background-size:  cover; */
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-verizon-circular-5 {
+    background-image: url('../images/home_verizon.png');
+    background-position: -11px -5px;
+    background-size: 82%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-verizon-circular-3 {
+    /* background-image: url('../images/verizon_circle.png'); */
+    background-image: url('../images/full_circle_verizon.png');
+    /* background-position: -60px -30px; */
+    /* background-size: 80%; */
+    /* background-size: 110%; */
+    background-position: -12px -6px;
+    /* background-size:80%; */
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular-6 {
+    background-image: url('../images/Home_t_mobile.png');
+    background-size: 29rem;
+    background-position: -11px 8px;
+    background-size: 85%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-6 {
+    background-image: url('../images/7_2.png');
+    background-size: 29rem;
+    background-position: -6px 0px;
+    background-size: 81%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-left-circle {
+    background-image: url('../images/left_circle.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 250px;
+  }
+}
+
+@media (max-width: 414px) {
+  .font-size-small-devices {
+    font-size: 0.8rem;
+  }
+
+  .bg-cricket_arrow_double {
+    background-size: 40px !important;
+    background-position: 8px -6px !important;
+  }
+
+  .bg-double-arrow {
+    background-size: 40px !important;
+    background-position: 8px -6px !important;
+  }
+}
+
+@media (min-width: 1400px) {
+  /* Change the size of container for bg card */
+  .carousel-cell > .card {
+    width: 28rem;
+  }
+
+  .bg-verizon-circular-5 {
+    background-image: url('../images/home_verizon.png');
+    background-position: 2px -10px;
+    background-size: 75%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* full circles */
+  .bg-verizon-circular-3 {
+    background-image: url('../images/full_circle_verizon.png');
+    background-position: 2px 0px;
+    background-size: 75%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* Post PLan Circle */
+  .bg-verizon-circular-4 {
+    background-image: url('../images/3_2.png');
+    background-position: 4px 0px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* T-MObiles */
+  .bg-T-Mobile-circular-6 {
+    background-image: url('../images/Home_t_mobile.png');
+    background-position: -5px -12px;
+    background-size: 78%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-6 {
+    background-image: url('../images/7_2.png');
+    background-position: -5px -12px;
+    background-size: 78%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  /* T-Mobile Full Circle */
+  .bg-T-Mobile-circular-3 {
+    background-image: url('../images/5_4.png');
+    background-position: 0px -12px;
+    background-size: 75%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-3 {
+    background-image: url('../images/8_2.png');
+    background-position: 0px -12px;
+    background-size: 75%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-Mobile-circular-4 {
+    background-image: url('../images/Copy%20of%2010.png');
+    background-position: 0px -18px;
+    background-size: 79%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-4 {
+    background-image: url('../images/9.png');
+    background-position: 0px -18px;
+    background-size: 79%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+}
+
+/* iPhone 8 */
+/* iphone 6/7/8 ios 11 */
+@media only screen and (min-width: 375px) and (max-width: 667px) and (-webkit-device-pixel-ratio: 2) {
+  /* Home Phone Cards */
+  .bg-grid-plan_verizon_mobile,
+  .bg-grid-plan_t_mobile,
+  .bg-grid-plan_att_mobile,
+  .bg-grid-plan-4,
+  .bg-gird-plan-Cricket,
+  .bg-grid-plan-size {
+    background-size: auto 100%;
+  }
+
+  .category-title::after {
+    width: 70%;
+  }
+
+  .btn-how-it-works {
+    font-size: 0.7rem !important;
+  }
+
+  p#originalContactNumber {
+    color: #161c2d !important;
+  }
+
+  p#small_address {
+    font-size: 1rem;
+  }
+
+  p#user_email_id {
+    font-size: 1.125rem;
+  }
+
+  p.font-size-xm,
+  a.font-size-xm,
+  button.btn.font-size-xm {
+    font-size: 0.65rem;
+  }
+
+  h3.font-size-xm.card-title {
+    font-size: 1.2rem;
+  }
+
+  p.font-size-xm {
+    font-size: 0.8rem;
+  }
+
+  section.bg-faq_header .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 11px;
+  }
+
+  div#exampleModalPayment h1.modal-title.font-size-xm {
+    font-size: 1.5rem;
+  }
+
+  h2.card-title {
+    font-size: 1.1rem;
+  }
+
+  a#ask-a-question {
+    font-size: 1rem;
+  }
+
+  label.custom-file-label {
+    width: 154px;
+  }
+
+  h3.font-size-xm.card-title {
+    font-size: 1.2rem;
+  }
+
+  a.font-size-xm,
+  button.btn.font-size-xm {
+    font-size: 0.6rem !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+
+  button.btn.font-size-xm[data-target='#exampleModalPayment'] {
+    font-size: 0.8rem !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+
+  h2.faq_heading_1,
+  h2.faq_heading_2,
+  h2.faq_heading_3 {
+    font-size: 1.5rem;
+  }
+
+  span.h3.faq_heading_3 {
+    font-size: 1rem;
+  }
+
+  /* Verizon Plan Detail  */
+  .bg-verizon_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .plan-detail-heading-h1 {
+    font-size: 1.4rem;
+  }
+
+  .plan-detail-heading-h2 {
+    font-size: 1rem;
+  }
+
+  .plan-detail-heading-h3 {
+    font-size: 0.9rem;
+  }
+
+  .billing-cycle {
+    position: relative;
+    font-size: 15px;
+  }
+
+  .verizon-heading-h5 {
+    font-size: 0.9rem;
+  }
+
+  .verizon-p {
+    font-size: 0.7rem;
+  }
+
+  div.card-button {
+    min-height: 120px;
+  }
+
+  div.card-button:nth-child(even) {
+    padding-left: 3px;
+  }
+
+  div.card-button:nth-child(odd) {
+    padding-right: 3px;
+  }
+
+  div.card-button div.card-body {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  img.plan-offer-1 {
+    width: 50px !important;
+  }
+
+  img.plan-offer-4 {
+    width: 35px !important;
+    margin-left: 5px;
+    margin-right: auto;
+  }
+
+  /* .bg-plan-detail-verizon .bg-plan-detail-T_Mobile, .bg-plan-detail-att {
+        border-radius: 2.5rem !important;
+        border-top-left-radius: 0 !important;
+        border-top-right-radius: 0 !important;
+    } */
+
+  .bg-plan-detail-verizon,
+  .bg-plan-detail-T_Mobile,
+  .bg-plan-detail-att {
+    border-radius: 2.5rem !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+  }
+
+  /* img.plan-offer-2{
+        width: 100%;
+    } */
+
+  /* .summary-block .line-per-month{
+    top: 0px;
+  } */
+
+  h2.card-title.total {
+    font-size: 1.8rem;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  h6.font-size-xm.card-title {
+    font-size: 1.2rem !important;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 50px;
+    background-position: 89px 19px;
+  }
+
+  p.font-size-xm {
+    font-size: 1.2rem;
+  }
+
+  p#small_address {
+    font-size: 1.2rem;
+  }
+
+  p#user_email_id {
+    font-size: 1.2rem;
+  }
+
+  section.bg-faq_header .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 1rem;
+  }
+}
+
+/* iPhone 11 Pro */
+/* 2436x1125px at 458ppi */
+/* iphone X/XS ios 12 */
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  /* filters */
+  label.label-mobile[data-plan-verify] {
+    width: 100px;
+  }
+
+  .h3.faq_heading_3 {
+    font-size: 1.1rem;
+  }
+
+  .bg-grid-plan_verizon_mobile,
+  .bg-grid-plan_t_mobile,
+  .bg-grid-plan_att_mobile,
+  .bg-grid-plan-4,
+  .bg-gird-plan-Cricket,
+  .bg-grid-plan-size {
+    background-size: auto 100%;
+  }
+
+  h2.card-title {
+    font-size: 1.1rem;
+  }
+
+  .category-title::after {
+    width: 70%;
+  }
+
+  button.btn.font-size-xm,
+  a.btn.font-size-xm,
+  p.h3.font-size-xm {
+    font-size: 0.7rem;
+  }
+
+  div.summary-block p.card-text {
+    font-size: 1rem;
+  }
+
+  small.font-size-xm {
+    font-size: 0.9rem;
+  }
+
+  h2.font-size-xm {
+    font-size: 1.2rem;
+  }
+
+  button.btn-xs.font-size-xm {
+    font-size: 0.8rem;
+  }
+
+  h2.font-size-xsm {
+    font-size: 1rem;
+  }
+
+  .people-img-about {
+    margin-right: 20px !important;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 50px;
+    background-position: 17px 18px;
+  }
+
+  label.custom-file-label {
+    font-size: 0.8rem;
+    border: none;
+  }
+
+  .custom-file-label::after {
+    border-radius: 0.375rem;
+  }
+}
+
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+  div.summary-block p.card-text {
+    font-size: 1.8rem;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+
+  .people-img-faq {
+    max-width: 150px !important;
+    min-width: 150px !important;
+    position: relative;
+    top: -10px;
+  }
+
+  .people-img-about {
+    max-width: 200px !important;
+    min-width: 200px !important;
+    margin-left: 5 00px;
+    margin: 0 auto;
+    margin-left: 144px !important;
+    margin-top: -10px !important;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -30px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .w-lg-40 {
+    width: 40% !important;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-device-pixel-ratio: 2) {
+  .bg-posting::after {
+    width: 30%;
+    left: 315px;
+    top: -227px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    -moz-transform: rotate(-90deg) scaleX(-1);
+  }
+
+  section.bg-top-header .home-top-header {
+    font-size: 2rem;
+  }
+
+  section.bg-top-header p,
+  section.bg-top-header a {
+    font-size: 1rem;
+  }
+
+  .font-size-small-devices {
+    font-size: 1rem;
+  }
+
+  /* .bg-account-owner-left-circles {
+            background-position: 40px 0px;
+        } */
+
+  .bg-posting {
+    background-position: 48% -1%;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 1.5rem;
+  }
+
+  .bg-posting::after {
+    width: 28%;
+    left: 340px;
+    top: -353.6px;
+  }
+
+  .home-top-header {
+    width: 100%;
+  }
+
+  .bg-top-header {
+    background-size: 100% 101%;
+  }
+
+  .bg-img-customer-testinomals {
+    background-size: 110%;
+    background-position-x: 0px;
+  }
+
+  p.font-size-xm.card-text {
+    font-size: 0.85rem;
+  }
+
+  p.h2.font-size-xm {
+    font-size: 1rem;
+  }
+
+  h1.card-title.display-5.join-process {
+    font-size: 2rem;
+  }
+
+  .fa-1_7x {
+    font-size: 1.5em;
+  }
+
+  div.summary-block p.card-text {
+    font-size: 0.9rem;
+  }
+
+  div.summary-block h2 {
+    font-size: 1.3375rem;
+  }
+
+  div.summary-block h4 {
+    font-size: 0.9375rem;
+  }
+
+  h2.font-size-xl.profile {
+    font-size: 1.6rem;
+  }
+
+  .bg-how_header {
+    background-position-y: -64px;
+  }
+
+  h1.display-2.how-it-work-heading {
+    font-size: 3.0125rem;
+  }
+
+  p.font-size-xm.card-text {
+    font-size: 1.4rem;
+  }
+
+  .people-img-about {
+    max-width: 300px !important;
+    min-width: 250px !important;
+    position: relative;
+    right: 0px;
+    margin-top: 0px !important;
+  }
+
+  .carousel-cell > .card {
+    width: 26.5rem;
+  }
+
+  .w-80 {
+    width: 75%;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -6%;
+    left: -9px;
+    position: relative;
+  }
+
+  div.T-button {
+    top: -5px;
+    left: 2px;
+    position: relative;
+  }
+
+  div.verizon-button > .font-size-sm {
+    font-size: 0.8rem !important;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button {
+    top: -6%;
+    left: 0px;
+    position: relative;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button > .font-size-sm {
+    font-size: 1rem !important;
+  }
+
+  .bg-verizon-circular-3 {
+    background-position: -4px -4px;
+    background-size: 81%;
+  }
+
+  div#portfolio-main-carousel-verizon div.carousel-cell a {
+    margin-top: 0px;
+    margin-left: 5px;
+  }
+
+  .bg-verizon-circular-4 {
+    background-image: url('../images/3_2.png');
+
+    background-position: 0px;
+    background-size: 83%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.carousel-cell.verizon > div.card {
+    height: 350px;
+  }
+
+  .bg-T-Mobile-circular-4 {
+    background-image: url('../images/Copy%20of%2010.png');
+    background-size: 29rem;
+    background-position: -57px -50px;
+    background-repeat: no-repeat;
+    background-position: -62px -55px;
+    background-position: -7px -16px;
+    background-size: 120%;
+    background-size: 84%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-4 {
+    background-image: url('../images/9.png');
+    background-size: 29rem;
+    background-position: -57px -50px;
+    background-repeat: no-repeat;
+    background-position: -62px -55px;
+    background-position: -7px -16px;
+    background-size: 120%;
+    background-size: 84%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.T-Mobile > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  .bg-T-Mobile-circular-6 {
+    background-image: url('../images/Home_t_mobile.png');
+    background-size: 29rem;
+    background-position: -6px 0px;
+    background-size: 81%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  .bg-T-circular-6 {
+    background-image: url('../images/7_2.png');
+    background-size: 29rem;
+    background-position: -6px 0px;
+    background-size: 81%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div#portfolio-main-carousel-T-Mobile div.carousel-cell a {
+    margin-top: 0;
+    margin-left: 8px;
+  }
+
+  .bg-T-Mobile-circular-4 {
+    background-position: -7px -4px;
+    background-size: 79%;
+  }
+
+  .bg-T-circular-4 {
+    background-position: 0 -4px;
+    background-size: 79%;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  .bg-how_header {
+    background-position-y: -90px;
+  }
+
+  .people-img-faq {
+    max-width: 350px !important;
+    min-width: 100px !important;
+    position: relative;
+    top: 20px;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body p.h6.font-size-xm {
+    font-size: 0.5rem;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -6%;
+    left: -9px;
+    position: relative;
+  }
+
+  div.verizon-button > .font-size-sm {
+    font-size: 0.8rem !important;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button {
+    top: -6%;
+    left: 0px;
+    position: relative;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button > .font-size-sm {
+    font-size: 1rem !important;
+  }
+
+  .bg-posting {
+    background-position: 48% -6%;
+  }
+
+  .bg-posting::after {
+    width: 20%;
+    left: 498.383px;
+    top: -165.933px;
+  }
+
+  .home-top-header {
+    width: 100%;
+  }
+
+  .bg-top-header {
+    background-size: 100% 101%;
+  }
+}
+
+/* iPhone XR  */
+@media only screen and (min-width: 414px) and (max-width: 896px) and (-webkit-device-pixel-ratio: 2) {
+  .category-title::after {
+    width: 70%;
+  }
+
+  div.summary-block p.card-text {
+    font-size: 0.875rem;
+  }
+
+  .faq_heading_1,
+  .faq_heading_2,
+  .faq_heading_3 {
+    font-size: 1.5rem;
+  }
+
+  p.font-size-xm,
+  a.font-size-xm,
+  p.h3.font-size-xm {
+    font-size: 0.7rem;
+  }
+
+  h3.font-size-xm.card-title {
+    font-size: 1.2rem;
+  }
+
+  p.card-text.home_top_description {
+    font-size: 14px !important;
+  }
+
+  .row.is-flex > [class*='col-'] > div > a {
+    font-size: 1.4rem !important;
+  }
+
+  h3.card-title {
+    font-size: 1.4rem;
+  }
+
+  h3.step_1_initial_question {
+    font-size: 1.1rem;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 40px;
+    background-position: 63px 24px;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 40px;
+    background-position: 45px 24px;
+  }
+
+  .bg-T-Mobile-circular-6 {
+    background-image: url('../images/Home_t_mobile.png');
+    background-size: 29rem;
+    background-position: -11px 0px;
+    background-size: 81%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.T-Mobile-button {
+    top: -5px;
+    left: -4px;
+    position: relative;
+  }
+
+  a#ask-a-question {
+    font-size: 1rem !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -9%;
+    left: 1px;
+    position: relative;
+  }
+
+  label.custom-file-label {
+    width: 146px;
+  }
+
+  .bg-posting {
+    background-size: 24%;
+    background-position: 48% -3%;
+  }
+
+  .bg-posting::after {
+    width: 47%;
+
+    left: 183px;
+    top: -290px;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  .category-title::after {
+    width: 70%;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 50px;
+    background-position: 0 22px;
+  }
+
+  h2.card-title {
+    font-size: 1.3rem;
+  }
+
+  h2.faq_heading_1,
+  h2.faq_heading_2,
+  h2.faq_heading_3 {
+    font-size: 1.6rem;
+  }
+
+  p.h3.font-size-xm {
+    font-size: 1.2rem;
+  }
+
+  img.people-img-faq {
+    margin-top: 50px !important;
+    margin-left: 45px !important;
+    max-width: 200px !important;
+    min-width: 200px !important;
+  }
+
+  footer p.font-size-xm,
+  a.font-size-xm {
+    font-size: 1rem;
+  }
+
+  p.card-text.home_top_description {
+    font-size: 17px !important;
+  }
+
+  .row.is-flex > [class*='col-'] > div > a {
+    font-size: 3rem !important;
+  }
+
+  div.bg-image-testimonial-2 p.font-size-xm {
+    font-size: 0.7rem;
+  }
+
+  section.home_covered_section h1.card-title {
+    font-size: 1.575rem;
+  }
+
+  .bg-T-Mobile-circular-6 {
+    background-position: -9px 7px;
+    background-size: 83%;
+  }
+
+  button#dropdownMenuButton.h1 {
+    font-size: 0.875rem;
+  }
+
+  div.T-Mobile-button {
+    top: 18px;
+    left: -7px;
+    position: relative;
+  }
+
+  .bg-verizon-circular-5 {
+    background-image: url('../images/home_verizon.png');
+    background-position: -11px -5px;
+    background-size: 82%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  }
+
+  div.carousel-cell.verizon > div.card > div.card-body {
+    flex-grow: 1;
+  }
+
+  div.bg-verizon-circular-5 div.verizon-button {
+    top: -11%;
+    left: -9px;
+    position: relative;
+  }
+
+  div.bg-verizon-circular-3 div.verizon-button {
+    top: -10%;
+    left: -17px;
+    position: relative;
+  }
+
+  div.bg-T-Mobile-circular-3 div.T-Mobile-button {
+    top: -11px;
+    left: -27px;
+    position: relative;
+  }
+
+  .people-img-about {
+    max-width: 282px !important;
+    min-width: 131px !important;
+    width: 125%;
+    margin-right: 15px;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 41px;
+    background-position: 50px 26px;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 45px;
+    background-position: 18px 24px;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0px !important;
+  }
+}
+
+.container-customize-xl {
+  max-width: 95%;
+}
+
+@media screen and (min-width: 1300px) {
+  .container-customize-xl {
+    max-width: 1300px;
+  }
+
+  /* verion plan detail */
+  div.card-button {
+    min-height: 100px;
+    /* max-width: 300px; */
+  }
+
+  .verizon-p,
+  p.verizon-heading-h5 {
+    font-size: 0.7rem;
+  }
+
+  div.bg-image-testimonial-2 p.card-text {
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (min-width: 1340px) {
+  .container-customize-xl {
+    max-width: 1300px;
+  }
+
+  .verizon-p,
+  .verizon-heading-h5.h5 {
+    font-size: 1.0625rem;
+  }
+
+  p.verizon-heading-h5.h1 {
+    font-size: 2.3125rem;
+  }
+
+  div.card-button {
+    min-height: 140px;
+    max-width: 100%;
+  }
+
+  div.card-button .verizon-p,
+  div.card-button .verizon-heading-h5.h5,
+  div.card-button p.verizon-heading-h5.h1 {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .container-customize-xll {
+    max-width: 1450px;
+  }
+
+  /* verion plan detail */
+  div.card-button {
+    min-height: 180px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .fitlers {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .fitlers {
+    display: none;
+  }
+
+  .w-lg-20 {
+    max-width: 20% !important;
+  }
+
+  .w-lg-15 {
+    max-width: 15% !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .how-it-works-heading-h1 {
+    font-size: 1.8rem;
+  }
+
+  .how-it-works-heading-h3 {
+    font-size: 1rem;
+  }
+}
+
+/* ----------- Non-Retina Screens ----------- */
+/* @media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    .container-customize-xl{
+        max-width: 1300px;
+    }
+} */
+
+/* ----------- Retina Screens ----------- */
+/* @media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+    .container-customize-xl{
+        max-width: 1300px;
+    }
+} */
+
+@media screen and (min-width: 760px) and (max-width: 1300px) {
+  .bg-posting::after {
+    background-color: white;
+    content: '';
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+
+    width: 30%;
+    left: 322px;
+    top: -299px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    /* -moz-transform: rotate(-90deg) scaleX(-1); */
+    /* -ms-transform: rotate(-90deg) scaleX(-1); */
+    /* -o-transform: rotate(-90deg) scaleX(-1); */
+  }
+
+  .bg-posting {
+    background-position: 52% -1%;
+  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1300px) {
+  .bg-posting::after {
+    background-color: white;
+    content: '';
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+
+    width: 30%;
+
+    left: 345px;
+    top: -262px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    /* -moz-transform: rotate(-90deg) scaleX(-1); */
+    /* -ms-transform: rotate(-90deg) scaleX(-1); */
+    /* -o-transform: rotate(-90deg) scaleX(-1); */
+  }
+
+  .bg-posting {
+    background-position: 48% -3%;
+  }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1400px) {
+  /* .bg-account-owner-left-circles {
+        background-position: 94px 0px;
+    }
+    section:not([id="section_0"]).bg-account-owner-left-circles {
+        background-position: 110px 0px;
+    } */
+}
+
+/* @media screen and 
+(min-width:800px) and 
+(max-width:1280px) and
+(orientation : portrait) and
+(-webkit-device-pixel-ratio: 2){
+  
+} */
+
+/* @media only screen 
+and (min-width: 358px) 
+and (max-width: 1280px) 
+and (-webkit-device-pixel-ratio:2)  {
+
+    .people-img-faq {
+        max-width: 100px !important;
+        min-width: 100px !important;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+} */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a.nav-link:hover:after {
+    width: 100%;
+    left: 12px;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0rem !important;
+  }
+
+  h2.new-number-h3.billing,
+  h2.new-number-p,
+  h3.new-number-h3 {
+    font-size: 1.2rem;
+  }
+
+  .h3.new-number-p {
+    font-size: 1rem;
+  }
+
+  p.new-number-p,
+  ol.new-number-p {
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  a.nav-link:hover:after {
+    width: 100%;
+    left: 0px;
+  }
+}
+
+@media screen and (max-width: 1280px) and (orientation: landscape) {
+  img.home-top-header {
+    width: 119%;
+    min-width: 119%;
+    max-width: 119%;
+  }
+
+  div.home-top-header-parent {
+    margin-left: -4rem !important;
+  }
+
+  .bg-posting::after {
+    /* background-color: white;
+        content: "";
+        display: inline-block;
+        height: 2px;
+        position: relative;
+        vertical-align: middle; */
+    width: 22%;
+    left: 417px;
+    top: -223px;
+    /* -webkit-transform: rotate(-90deg) scaleX(-1);
+        -moz-transform: rotate(-90deg) scaleX(-1); */
+  }
+
+  /* about us image */
+  .people-img-about {
+    margin-top: 0px !important;
+    margin-right: -40px !important;
+  }
+}
+
+/* range from 360 to 740 */
+
+@media screen and (min-width: 360px) and (max-width: 846px) {
+  h2.card-title {
+    font-size: 1.1rem;
+  }
+
+  span.h3.faq_heading_3 {
+    font-size: 1rem;
+  }
+
+  .new-number-p,
+  h3.card-title.new-number-p,
+  .new-number-p.h3 {
+    font-size: 0.8rem;
+  }
+
+  .plan-detail-heading-h1 {
+    font-size: 1.4rem;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  div.card-button:nth-child(2n + 1) {
+    padding-right: 3px;
+  }
+
+  div.card-button {
+    min-height: 120px;
+  }
+
+  div.card-button div.card-body {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .verizon-p {
+    font-size: 0.7rem;
+  }
+
+  div.card-button:nth-child(2n) {
+    padding-left: 3px;
+  }
+
+  .plan-detail-heading-h2 {
+    font-size: 1rem;
+  }
+
+  .plan-detail-heading-h3.h3 {
+    font-size: 0.9rem;
+  }
+
+  .plan-detail-heading-h2 {
+    font-size: 1rem;
+  }
+
+  img.plan-offer-1 {
+    width: 50px !important;
+  }
+
+  img.plan-offer-4 {
+    width: 35px !important;
+    margin-left: 8px;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 846px) and (orientation: portrait) {
+  .bg-grid-plan_verizon_mobile,
+  .bg-grid-plan_t_mobile,
+  .bg-grid-plan_att_mobile,
+  .bg-grid-plan-4,
+  .bg-gird-plan-Cricket,
+  .bg-grid-plan-size {
+    background-size: auto 53%;
+  }
+
+  /* verizon plan detail page */
+
+  div.card-button:nth-child(2n + 1) {
+    padding-right: 3px;
+  }
+
+  div.card-button {
+    min-height: 120px;
+  }
+
+  div.card-button div.card-body {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .verizon-p {
+    font-size: 0.7rem;
+  }
+
+  div.card-button:nth-child(2n) {
+    padding-left: 3px;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 846px) and (orientation: landscape) {
+  .bg-grid-plan_verizon_mobile,
+  .bg-grid-plan_t_mobile,
+  .bg-grid-plan_att_mobile,
+  .bg-grid-plan-4,
+  .bg-gird-plan-Cricket,
+  .bg-grid-plan-size {
+    background-size: auto 110%;
+  }
+
+  /* h2.faq_heading_1{
+            padding-top: 0px;
+        } */
+
+  .people-img-faq {
+    margin-top: -14px !important;
+  }
+
+  h1.card-title.font-size-xm.faq {
+    margin-top: 9px !important;
+    font-size: 30px;
+  }
+
+  section.bg-faq_header .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 414px) and (max-width: 846px) and (orientation: landscape) {
+  .people-img-faq {
+    margin-top: -14px !important;
+  }
+
+  h1.card-title.font-size-xm.faq {
+    margin-top: 9px !important;
+    font-size: 30px;
+  }
+
+  section.bg-faq_header .h3.card-text.text-shadow-none.pl-1.font-size-xm {
+    font-size: 15px;
+  }
+}
+
+/* @media screen and 
+    (min-width:360px) and
+    (max-width:640px) and
+    (orientation : landscape){
+        h2.faq_heading_1{
+            padding-top: 0px;
+        }
+    } */
+
+@media screen and (min-width: 753px) and (orientation: portrait) {
+  .all-circle-join {
+    padding-right: 8rem !important;
+    padding-left: 8rem !important;
+  }
+
+  .people-img-faq {
+    max-width: 150px !important;
+    min-width: 100px !important;
+    position: relative;
+    top: -15px;
+    left: 0px;
+  }
+
+  p.h3.font-size-xm {
+    font-size: 1rem;
+  }
+
+  img.plan-offer-4 {
+    width: 50px !important;
+    padding-right: 12px;
+  }
+}
+
+@media screen and (max-width: 846px) {
+  .plan-detail-heading-h1 {
+    font-size: 1.4rem;
+  }
+
+  .bg-verizon_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-tmobile_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  div.card-button:nth-child(2n) {
+    padding-left: 20px;
+  }
+
+  div.card-button:nth-child(2n + 1) {
+    padding-right: 20px;
+  }
+
+  .verizon-p,
+  p.verizon-heading-h5 {
+    font-size: 0.7rem;
+  }
+
+  .bg-att_arrow_double {
+    background-size: 32px;
+    background-position: 10px 6px;
+  }
+
+  .bg-cricket_arrow_double {
+    background-size: 53px;
+    background-position: 32px -13px;
+  }
+
+  .bg-double-arrow {
+    background-size: 53px;
+    background-position: 32px -13px;
+  }
+
+  hr.border-width-10 {
+    margin-top: 0rem !important;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-device-pixel-ratio: 2) {
+  p.new-number-p,
+  ol.new-number-p {
+    font-size: 1.0625rem;
+  }
+
+  .bg-posting::after {
+    width: 30%;
+    left: 315px;
+    top: -227px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    -moz-transform: rotate(-90deg) scaleX(-1);
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+  .people-img-faq {
+    max-width: 350px !important;
+    min-width: 100px !important;
+    position: relative;
+    top: 20px;
+    left: 0;
+  }
+
+  div.post-circle-home span.first {
+    position: relative;
+    top: -15px;
+  }
+
+  div.post-circle-home span.second {
+    position: relative;
+    top: -24px;
+  }
+
+  div.post-circle-home span.plus {
+    top: 1px;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  .bg-posting::after {
+    width: 12%;
+    left: 548px;
+    top: -156px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    -moz-transform: rotate(-90deg) scaleX(-1);
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-device-pixel-ratio: 2) {
+  div#open_case_buttons {
+    grid-row-gap: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    grid-column-gap: 15px;
+    justify-content: flex-start;
+    column-gap: 15px;
+    row-gap: 15px;
+
+    margin: 15px 15px 15px 15px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  .bg-posting::after {
+    width: 27%;
+    left: 328px;
+    top: -223px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    -moz-transform: rotate(-90deg) scaleX(-1);
+  }
+}
+
+@media only screen and (min-width: 1280px) and (orientation: portrait) {
+  /* Your Styles... */
+  .bg-posting::after {
+    width: 27%;
+    left: 328px;
+    top: -223px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    -moz-transform: rotate(-90deg) scaleX(-1);
+  }
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 767px) {
+  /* Your Styles... */
+  .bg-posting::after {
+    background-color: white;
+    content: '';
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    width: 23%;
+    left: 370px;
+    top: -194px;
+    -webkit-transform: rotate(-90deg) scaleX(-1);
+    /* -moz-transform: rotate(-90deg) scaleX(-1); */
+    /* -ms-transform: rotate(-90deg) scaleX(-1); */
+    /* -o-transform: rotate(-90deg) scaleX(-1); */
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  div#open_case_buttons label {
+    margin: 0px 5px !important;
+  }
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 2000px) {
+  .pb-xll-10 {
+    padding-bottom: 5rem !important;
+  }
+
+  .bg-top-header {
+    background-image: url('../images/Closer_lines2.webp');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: bottom;
+  }
+}
+
+@media (min-width: 1050px) {
+  div#remove_circle_buttons label.btn {
+    width: 200px;
+  }
+}
+
+/* Combining media query expressions */
+@media only screen and (max-width: 2304px) and (min-width: 1440px) {
+}
+
+/* Combining media query expressions */
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+  img.home-top-header {
+    width: 133%;
+    margin-left: 0px;
+  }
+}
